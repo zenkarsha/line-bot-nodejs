@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "question": "Small businesses that were able to ______ swiftly to the pandemic are more likely to overcome the crisis. They could change the business models and reduce costs.",
+    "answers": {
+      "1": "tumble",
+      "2": "switch",
+      "3": "respond",
+      "4": "drown"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 2,
+    "question": "The forest trail to the lake is perfectly ______ for people of all ages. That is why it is so popular.",
+    "answers": {
+      "1": "stable",
+      "2": "suitable",
+      "3": "tricky",
+      "4": "technical"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 3,
+    "question": "I am favorably ______ by the student’s willingness to help clean the toilet. She stood out as a reliable leader.",
+    "answers": {
+      "1": "mended",
+      "2": "impressed",
+      "3": "featured",
+      "4": "regretted"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 4,
+    "question": "To attract a wider ______, the theater plans to offer musical shows of different languages.",
+    "answers": {
+      "1": "spectator",
+      "2": "viewer",
+      "3": "observer",
+      "4": "audience"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 5,
+    "question": "On a biological level, the main difference between bacteria and viruses is that the former can live inside or outside a body, while the latter needs a host to ______.",
+    "answers": {
+      "1": "expand",
+      "2": "cultivate",
+      "3": "survive",
+      "4": "attach"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 6,
+    "question": "A potential alcoholic should be cognizant of the danger signal that he or she uses alcohol in an ______ to tackle mental problems.",
+    "answers": {
+      "1": "auction",
+      "2": "attorney",
+      "3": "assistance",
+      "4": "attempt"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 7,
+    "question": "If a wound remains open and has a risk of infection, then it should be ______, stapled, or closed with skin adhesives within 6 to 8 hours.",
+    "answers": {
+      "1": "tended",
+      "2": "united",
+      "3": "glued",
+      "4": "stitched"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 8,
+    "question": "If you want to check where your package is, you can make use of the postal tracking number to monitor the movement of the ______.",
+    "answers": {
+      "1": "collection",
+      "2": "baggage",
+      "3": "parcel",
+      "4": "bunch"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 9,
+    "question": "Under the quarantine protocols, travelers visiting Taiwan will be ______ to a room for 14 days.",
+    "answers": {
+      "1": "devoted",
+      "2": "accustomed",
+      "3": "inserted",
+      "4": "confined"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10,
+    "question": "When she found a hair in her pasta, she frowned in ______ and requested a refund for her food.",
+    "answers": {
+      "1": "disgust",
+      "2": "mercy",
+      "3": "sympathy",
+      "4": "harmony"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 11,
+    "question": "Our project has a(n) ______ start as we have received financial support from a generous donor since day one. ",
+    "answers": {
+      "1": "economical",
+      "2": "faithful",
+      "3": "durable",
+      "4": "promising"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 12,
+    "question": "I was overwhelmed by a sense of ______ when I found that I lost my passport and personal belongings at the airport.",
+    "answers": {
+      "1": "boredom",
+      "2": "despair",
+      "3": "obedience",
+      "4": "affection"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 13,
+    "question": "Unable to answer the journalist’s embarrassing question, the pop singer paused and ______ for the right words.",
+    "answers": {
+      "1": "surpassed",
+      "2": "throbbed",
+      "3": "groped",
+      "4": "presided"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 14,
+    "question": "Some online sources are ______. Readers should make certain that they are correct before passing the information forward.",
+    "answers": {
+      "1": "dubious",
+      "2": "objective",
+      "3": "pious",
+      "4": "transparent"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 15,
+    "question": "The conflict between the two countries suddenly ______, and the neighboring countries worried that wars might be inevitable.",
+    "answers": {
+      "1": "denounced",
+      "2": "conceded",
+      "3": "illuminated",
+      "4": "escalated"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 16,
+    "question": "To encourage more people to receive vaccines, the government uses cash as ______, so whoever has vaccine injection gets $1000.",
+    "answers": {
+      "1": "revenue",
+      "2": "kernel",
+      "3": "incentive",
+      "4": "pension"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 17,
+    "question": "Imposing economic ______ on a country is often considered one of the serious measures of punishment.",
+    "answers": {
+      "1": "snares",
+      "2": "sanctuaries",
+      "3": "streaks",
+      "4": "sanctions"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 18,
+    "question": "A ______ syllabus means that changes of course content will be expected according to students’ performance and needs.",
+    "answers": {
+      "1": "confidential",
+      "2": "tentative",
+      "3": "chronic",
+      "4": "redundant"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 19,
+    "question": "Climate change impacts the environment adversely. Many regions have been experiencing drastic effects which are ______ in forms including floods and record heat waves.",
+    "answers": {
+      "1": "eligible",
+      "2": "manifest",
+      "3": "obscure",
+      "4": "tranquil"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 20,
+    "question": "In the meeting, both parties were ______ about their proposals. Neither was willing to compromise.",
+    "answers": {
+      "1": "cordial",
+      "2": "inherent",
+      "3": "radiant",
+      "4": "obstinate"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 21,
+    "question": "World leaders pledged to strongly condemn and ______ oppose terrorism in any form and vowed to maintain world peace and stability.",
+    "answers": {
+      "1": "resolutely",
+      "2": "incidentally",
+      "3": "vertically",
+      "4": "marginally"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 22,
+    "question": "The refugees were forced to leave their motherland, which was ______ by long-running war, and settled down on foreign soil.",
+    "answers": {
+      "1": "perceived",
+      "2": "scrambled",
+      "3": "comprised",
+      "4": "ravaged"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 23,
+    "question": "While some people argue faith and reason are not in conflict and that the two are actually compatible, others find it difficult to ______ science and religion.",
+    "answers": {
+      "1": "reconcile",
+      "2": "designate",
+      "3": "sustain",
+      "4": "restrain"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 24,
+    "question": "Heavy truck drivers are experts at dealing with solitude and ______ on the road. Music and audio books are their common solutions to fighting boredom.",
+    "answers": {
+      "1": "symptom",
+      "2": "indignation",
+      "3": "monotony",
+      "4": "perseverance"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 25,
+    "question": "He tripped and landed hard onto a rocky surface. He couldn’t help screaming in ______ as the pain seared through his broken leg.",
+    "answers": {
+      "1": "agony",
+      "2": "bulge",
+      "3": "novice",
+      "4": "gross"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 26,
+    "question": "Investors are advised to buy gold or make some overseas investments in case of rising ______ in their own country.",
+    "answers": {
+      "1": "asset",
+      "2": "inflation",
+      "3": "latitude",
+      "4": "abortion"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 27,
+    "question": "At the thought of the mistreatment he had suffered, he clenched his fists so hard that his ______ turned white.",
+    "answers": {
+      "1": "limps",
+      "2": "wrinkles",
+      "3": "knuckles",
+      "4": "braids"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 28,
+    "question": "He is the only breadwinner of his family. The heavy burden has gradually worn away his ______ ambition of becoming a world-famous violinist.",
+    "answers": {
+      "1": "barren",
+      "2": "frantic",
+      "3": "lofty",
+      "4": "irritable"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 29,
+    "question": "He cheered and rooted for his favorite baseball team throughout the game. When he returned home, he found his voice ______ from shouting.",
+    "answers": {
+      "1": "alternate",
+      "2": "hoarse",
+      "3": "elastic",
+      "4": "imperial"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 30,
+    "question": "One advantage of the hotel is that it offers ______ free parking near the night market in the downtown area.",
+    "answers": {
+      "1": "ample",
+      "2": "absurd",
+      "3": "courteous",
+      "4": "converse"
+    },
+    "right_answer": 1
+  }
+]
