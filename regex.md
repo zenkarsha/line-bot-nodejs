@@ -1,10 +1,22 @@
-### replace answers
+### adjust right answer
 ```
-\(A\)\s(\w+)\s\(B\)\s(\w+)\s\(C\)\s(\w+)\s\(D\)\s(\w+)\s?
+\(\s([A-D])\s\)
 
 ===>
 
-"1": "$1",\n"2": "$2",\n"3": "$3",\n"4": "$4"\n
+$1
+```
+
+
+### replace answers
+```
+\(A\)\s(\w+)\s\(B\)\s(\w+)\s\(C\)\s(\w+)\s\(D\)\s(\w+)\s?
+or
+\(A\)\s(.+)\s\(B\)\s(.+)\s\(C\)\s?(.+)\s\(D\)\s(.+)\s?
+
+===>
+
+\n"1": "$1",\n"2": "$2",\n"3": "$3",\n"4": "$4"\n
 ```
 
 
@@ -20,7 +32,7 @@ $1\n"id": $2,\n"question": "
 
 ### add answer block
 ```
-\n(1:)
+\n("1":)
 
 ===>
 
@@ -36,7 +48,7 @@ $1\n"id": $2,\n"question": "
 ",\n$1
 ```
 
-### fix question wrap
+### fix question wrap (optional)
 ```
 (\w)\n(\w)
 
@@ -66,7 +78,7 @@ $1 $2
 
 ### answer add tab
 ```
-(\d:\s)
+("\d":\s)
 
 ===>
 
@@ -76,7 +88,7 @@ $1 $2
 
 ### add item tab
 ```
-("id.+)\n("question.+",\n)("answers.+)\n(\s+\d.+)\n(\s+\d.+)\n(\s+\d.+)\n(\s+\d.+)\n(}\,)\n("right_answer.+)
+("id.+)\n("question.+",\n)("answers.+)\n(\s+"\d".+)\n(\s+"\d".+)\n(\s+"\d".+)\n(\s+"\d".+)\n(}\,)\n("right_answer.+)
 
 ===>
 

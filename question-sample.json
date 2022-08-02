@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 1100011,
     "question": "Small businesses that were able to ______ swiftly to the pandemic are more likely to overcome the crisis. They could change the business models and reduce costs.",
     "answers": {
       "1": "tumble",
@@ -11,7 +11,7 @@
     "right_answer": 3
   },
   {
-    "id": 2,
+    "id": 1100012,
     "question": "The forest trail to the lake is perfectly ______ for people of all ages. That is why it is so popular.",
     "answers": {
       "1": "stable",
@@ -22,7 +22,7 @@
     "right_answer": 2
   },
   {
-    "id": 3,
+    "id": 1100013,
     "question": "I am favorably ______ by the student’s willingness to help clean the toilet. She stood out as a reliable leader.",
     "answers": {
       "1": "mended",
@@ -33,7 +33,7 @@
     "right_answer": 2
   },
   {
-    "id": 4,
+    "id": 1100014,
     "question": "To attract a wider ______, the theater plans to offer musical shows of different languages.",
     "answers": {
       "1": "spectator",
@@ -44,7 +44,7 @@
     "right_answer": 4
   },
   {
-    "id": 5,
+    "id": 1100015,
     "question": "On a biological level, the main difference between bacteria and viruses is that the former can live inside or outside a body, while the latter needs a host to ______.",
     "answers": {
       "1": "expand",
@@ -55,7 +55,7 @@
     "right_answer": 3
   },
   {
-    "id": 6,
+    "id": 1100016,
     "question": "A potential alcoholic should be cognizant of the danger signal that he or she uses alcohol in an ______ to tackle mental problems.",
     "answers": {
       "1": "auction",
@@ -66,7 +66,7 @@
     "right_answer": 4
   },
   {
-    "id": 7,
+    "id": 1100017,
     "question": "If a wound remains open and has a risk of infection, then it should be ______, stapled, or closed with skin adhesives within 6 to 8 hours.",
     "answers": {
       "1": "tended",
@@ -77,7 +77,7 @@
     "right_answer": 4
   },
   {
-    "id": 8,
+    "id": 1100018,
     "question": "If you want to check where your package is, you can make use of the postal tracking number to monitor the movement of the ______.",
     "answers": {
       "1": "collection",
@@ -88,7 +88,7 @@
     "right_answer": 3
   },
   {
-    "id": 9,
+    "id": 1100019,
     "question": "Under the quarantine protocols, travelers visiting Taiwan will be ______ to a room for 14 days.",
     "answers": {
       "1": "devoted",
@@ -99,7 +99,7 @@
     "right_answer": 4
   },
   {
-    "id": 10,
+    "id": 11000110,
     "question": "When she found a hair in her pasta, she frowned in ______ and requested a refund for her food.",
     "answers": {
       "1": "disgust",
@@ -110,7 +110,7 @@
     "right_answer": 1
   },
   {
-    "id": 11,
+    "id": 11000111,
     "question": "Our project has a(n) ______ start as we have received financial support from a generous donor since day one. ",
     "answers": {
       "1": "economical",
@@ -121,7 +121,7 @@
     "right_answer": 4
   },
   {
-    "id": 12,
+    "id": 11000112,
     "question": "I was overwhelmed by a sense of ______ when I found that I lost my passport and personal belongings at the airport.",
     "answers": {
       "1": "boredom",
@@ -132,7 +132,7 @@
     "right_answer": 2
   },
   {
-    "id": 13,
+    "id": 11000113,
     "question": "Unable to answer the journalist’s embarrassing question, the pop singer paused and ______ for the right words.",
     "answers": {
       "1": "surpassed",
@@ -143,7 +143,7 @@
     "right_answer": 3
   },
   {
-    "id": 14,
+    "id": 11000114,
     "question": "Some online sources are ______. Readers should make certain that they are correct before passing the information forward.",
     "answers": {
       "1": "dubious",
@@ -154,7 +154,7 @@
     "right_answer": 1
   },
   {
-    "id": 15,
+    "id": 11000115,
     "question": "The conflict between the two countries suddenly ______, and the neighboring countries worried that wars might be inevitable.",
     "answers": {
       "1": "denounced",
@@ -165,7 +165,7 @@
     "right_answer": 4
   },
   {
-    "id": 16,
+    "id": 11000116,
     "question": "To encourage more people to receive vaccines, the government uses cash as ______, so whoever has vaccine injection gets $1000.",
     "answers": {
       "1": "revenue",
@@ -176,7 +176,7 @@
     "right_answer": 3
   },
   {
-    "id": 17,
+    "id": 11000117,
     "question": "Imposing economic ______ on a country is often considered one of the serious measures of punishment.",
     "answers": {
       "1": "snares",
@@ -187,7 +187,7 @@
     "right_answer": 4
   },
   {
-    "id": 18,
+    "id": 11000118,
     "question": "A ______ syllabus means that changes of course content will be expected according to students’ performance and needs.",
     "answers": {
       "1": "confidential",
@@ -198,7 +198,7 @@
     "right_answer": 2
   },
   {
-    "id": 19,
+    "id": 11000119,
     "question": "Climate change impacts the environment adversely. Many regions have been experiencing drastic effects which are ______ in forms including floods and record heat waves.",
     "answers": {
       "1": "eligible",
@@ -209,7 +209,7 @@
     "right_answer": 2
   },
   {
-    "id": 20,
+    "id": 11000120,
     "question": "In the meeting, both parties were ______ about their proposals. Neither was willing to compromise.",
     "answers": {
       "1": "cordial",
@@ -220,7 +220,7 @@
     "right_answer": 4
   },
   {
-    "id": 21,
+    "id": 11000121,
     "question": "World leaders pledged to strongly condemn and ______ oppose terrorism in any form and vowed to maintain world peace and stability.",
     "answers": {
       "1": "resolutely",
@@ -231,7 +231,7 @@
     "right_answer": 1
   },
   {
-    "id": 22,
+    "id": 11000122,
     "question": "The refugees were forced to leave their motherland, which was ______ by long-running war, and settled down on foreign soil.",
     "answers": {
       "1": "perceived",
@@ -242,7 +242,7 @@
     "right_answer": 4
   },
   {
-    "id": 23,
+    "id": 11000123,
     "question": "While some people argue faith and reason are not in conflict and that the two are actually compatible, others find it difficult to ______ science and religion.",
     "answers": {
       "1": "reconcile",
@@ -253,7 +253,7 @@
     "right_answer": 1
   },
   {
-    "id": 24,
+    "id": 11000124,
     "question": "Heavy truck drivers are experts at dealing with solitude and ______ on the road. Music and audio books are their common solutions to fighting boredom.",
     "answers": {
       "1": "symptom",
@@ -264,7 +264,7 @@
     "right_answer": 3
   },
   {
-    "id": 25,
+    "id": 11000125,
     "question": "He tripped and landed hard onto a rocky surface. He couldn’t help screaming in ______ as the pain seared through his broken leg.",
     "answers": {
       "1": "agony",
@@ -275,7 +275,7 @@
     "right_answer": 1
   },
   {
-    "id": 26,
+    "id": 11000126,
     "question": "Investors are advised to buy gold or make some overseas investments in case of rising ______ in their own country.",
     "answers": {
       "1": "asset",
@@ -286,7 +286,7 @@
     "right_answer": 2
   },
   {
-    "id": 27,
+    "id": 11000127,
     "question": "At the thought of the mistreatment he had suffered, he clenched his fists so hard that his ______ turned white.",
     "answers": {
       "1": "limps",
@@ -297,7 +297,7 @@
     "right_answer": 3
   },
   {
-    "id": 28,
+    "id": 11000128,
     "question": "He is the only breadwinner of his family. The heavy burden has gradually worn away his ______ ambition of becoming a world-famous violinist.",
     "answers": {
       "1": "barren",
@@ -308,7 +308,7 @@
     "right_answer": 3
   },
   {
-    "id": 29,
+    "id": 11000129,
     "question": "He cheered and rooted for his favorite baseball team throughout the game. When he returned home, he found his voice ______ from shouting.",
     "answers": {
       "1": "alternate",
@@ -319,7 +319,7 @@
     "right_answer": 2
   },
   {
-    "id": 30,
+    "id": 11000130,
     "question": "One advantage of the hotel is that it offers ______ free parking near the night market in the downtown area.",
     "answers": {
       "1": "ample",
@@ -328,5 +328,5593 @@
       "4": "converse"
     },
     "right_answer": 1
+  },
+  {
+    "id": 1090011,
+    "question": "abide",
+    "answers": {
+      "1": "暗示",
+      "2": "鼓舞",
+      "3": "忍受",
+      "4": "得到"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 1090012,
+    "question": "feasible",
+    "answers": {
+      "1": "偏激的",
+      "2": "可行的",
+      "3": "同時的",
+      "4": "可接近的"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 1090013,
+    "question": "incentive",
+    "answers": {
+      "1": "詢問",
+      "2": "誘因",
+      "3": "努力",
+      "4": "動機"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 1090014,
+    "question": "blizzard",
+    "answers": {
+      "1": "暴風雪",
+      "2": "爆炸聲",
+      "3": "火焰",
+      "4": "金屬支架"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1090015,
+    "question": "monarch",
+    "answers": {
+      "1": "專欄作家",
+      "2": "君主",
+      "3": "配偶",
+      "4": "前輩"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 1090016,
+    "question": "infinite",
+    "answers": {
+      "1": "無限的",
+      "2": "渺小的",
+      "3": "遙遠的",
+      "4": "集中的"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1090017,
+    "question": "penetrate",
+    "answers": {
+      "1": "滾動",
+      "2": "加速",
+      "3": "穿透",
+      "4": "濃縮"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 1090018,
+    "question": "peril",
+    "answers": {
+      "1": "野獸",
+      "2": "普及",
+      "3": "花蕊",
+      "4": "危險"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 1090019,
+    "question": "exile",
+    "answers": {
+      "1": "絕種",
+      "2": "放逐",
+      "3": "突發",
+      "4": "大叫"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900110,
+    "question": "considerable",
+    "answers": {
+      "1": "非常可觀的",
+      "2": "考慮中的",
+      "3": "能思考的",
+      "4": "體貼的"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900111,
+    "question": "suffocate",
+    "answers": {
+      "1": "猜測",
+      "2": "遞交",
+      "3": "到期",
+      "4": "窒息"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900112,
+    "question": "monument",
+    "answers": {
+      "1": "遺址",
+      "2": "風景",
+      "3": "部門",
+      "4": "回憶"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900113,
+    "question": "growl",
+    "answers": {
+      "1": "咆哮",
+      "2": "預測",
+      "3": "恢復",
+      "4": "抱怨"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900114,
+    "question": "shovel",
+    "answers": {
+      "1": "鏟起",
+      "2": "推擠",
+      "3": "修面",
+      "4": "繭居"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900115,
+    "question": "verse",
+    "answers": {
+      "1": "詩歌",
+      "2": "罪惡",
+      "3": "咒罵",
+      "4": "曲線"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900116,
+    "question": "jeer",
+    "answers": {
+      "1": "發布",
+      "2": "跨越",
+      "3": "設立",
+      "4": "嘲笑"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900117,
+    "question": "guerrilla",
+    "answers": {
+      "1": "內陸地區",
+      "2": "遊擊隊員",
+      "3": "遊牧民族",
+      "4": "武器彈藥"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900118,
+    "question": "deposit",
+    "answers": {
+      "1": "假想",
+      "2": "遣返",
+      "3": "便利貼",
+      "4": "沉積物"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900119,
+    "question": "locomotive",
+    "answers": {
+      "1": "遠征隊",
+      "2": "鎮靜劑",
+      "3": "火車頭",
+      "4": "生殖力"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900120,
+    "question": "pledge",
+    "answers": {
+      "1": "發送",
+      "2": "承受",
+      "3": "承諾",
+      "4": "侵入"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900121,
+    "question": "illuminate",
+    "answers": {
+      "1": "照亮",
+      "2": "壓迫",
+      "3": "顫抖",
+      "4": "駕駛"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900122,
+    "question": "tumble",
+    "answers": {
+      "1": "轉圈",
+      "2": "跌跤",
+      "3": "含糊地說",
+      "4": "自言自語"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900123,
+    "question": "prowl",
+    "answers": {
+      "1": "安置",
+      "2": "決鬥",
+      "3": "逃逸",
+      "4": "潛行"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900124,
+    "question": "analogy",
+    "answers": {
+      "1": "課程",
+      "2": "類比",
+      "3": "組合",
+      "4": "命運"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900125,
+    "question": "disciple",
+    "answers": {
+      "1": "特權",
+      "2": "步驟",
+      "3": "門徒",
+      "4": "升遷"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900126,
+    "question": "marshal",
+    "answers": {
+      "1": "威脅",
+      "2": "管理",
+      "3": "移居",
+      "4": "混合"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900127,
+    "question": "reign",
+    "answers": {
+      "1": "行使",
+      "2": "統治",
+      "3": "驅逐",
+      "4": "調停"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900128,
+    "question": "doctrine",
+    "answers": {
+      "1": "衛生",
+      "2": "安裝",
+      "3": "信條",
+      "4": "不安"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900129,
+    "question": "delegate",
+    "answers": {
+      "1": "代表",
+      "2": "甲板",
+      "3": "家屬",
+      "4": "押金"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900130,
+    "question": "clan",
+    "answers": {
+      "1": "家族",
+      "2": "報復",
+      "3": "肯定",
+      "4": "收據"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900131,
+    "question": "manifest",
+    "answers": {
+      "1": "明顯的",
+      "2": "少量的",
+      "3": "急性的",
+      "4": "荒涼的"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900132,
+    "question": "nostril",
+    "answers": {
+      "1": "鼻孔",
+      "2": "頭皮",
+      "3": "耳洞",
+      "4": "喉結"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900133,
+    "question": "assault",
+    "answers": {
+      "1": "疼痛",
+      "2": "懇求",
+      "3": "攻擊",
+      "4": "渴望"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900134,
+    "question": "gulp",
+    "answers": {
+      "1": "抓緊",
+      "2": "抱怨",
+      "3": "大口吞食",
+      "4": "擦傷"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900135,
+    "question": "concession",
+    "answers": {
+      "1": "執行",
+      "2": "適應",
+      "3": "移除",
+      "4": "讓步"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900136,
+    "question": "patent",
+    "answers": {
+      "1": "專利",
+      "2": "矛盾",
+      "3": "懇求",
+      "4": "長壽"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900137,
+    "question": "mend",
+    "answers": {
+      "1": "薄荷",
+      "2": "介意",
+      "3": "修補",
+      "4": "成就"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900138,
+    "question": "procecute",
+    "answers": {
+      "1": "斷裂",
+      "2": "訴諸",
+      "3": "起訴",
+      "4": "指定"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900139,
+    "question": "beckon",
+    "answers": {
+      "1": "撥頭髮",
+      "2": "閉眼睛",
+      "3": "打手勢",
+      "4": "脫衣服"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900140,
+    "question": "fret",
+    "answers": {
+      "1": "難過",
+      "2": "苦惱",
+      "3": "憤怒",
+      "4": "期待"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900141,
+    "question": "raisin",
+    "answers": {
+      "1": "低窪地",
+      "2": "葡萄乾",
+      "3": "扶養者",
+      "4": "勞動力"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900142,
+    "question": "commission",
+    "answers": {
+      "1": "允許",
+      "2": "引證",
+      "3": "理解",
+      "4": "委任"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900143,
+    "question": "magnet",
+    "answers": {
+      "1": "紗網",
+      "2": "雜誌",
+      "3": "大師",
+      "4": "磁鐵"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900144,
+    "question": "creek",
+    "answers": {
+      "1": "嘎吱聲",
+      "2": "搖籃",
+      "3": "小溪",
+      "4": "同志"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900145,
+    "question": "obscure",
+    "answers": {
+      "1": "前途看好的",
+      "2": "鮮為人知的",
+      "3": "詭譎多變的",
+      "4": "熱情洋溢的"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900146,
+    "question": "humanity",
+    "answers": {
+      "1": "效率",
+      "2": "顯明",
+      "3": "濕度",
+      "4": "人性"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900147,
+    "question": "execute",
+    "answers": {
+      "1": "測量",
+      "2": "成熟",
+      "3": "執行",
+      "4": "說服"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900148,
+    "question": "fanatic",
+    "answers": {
+      "1": "大力士",
+      "2": "算命師",
+      "3": "批發商",
+      "4": "狂熱者"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900149,
+    "question": "fowl",
+    "answers": {
+      "1": "家禽",
+      "2": "骯髒",
+      "3": "踏板",
+      "4": "分詞"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900150,
+    "question": "creak",
+    "answers": {
+      "1": "喃喃自語",
+      "2": "泥濘不堪",
+      "3": "雨聲滴答",
+      "4": "嘎吱作響"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900151,
+    "question": "bind",
+    "answers": {
+      "1": "蒙蔽",
+      "2": "丟棄",
+      "3": "裝訂",
+      "4": "推擠"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900152,
+    "question": "escort",
+    "answers": {
+      "1": "強調",
+      "2": "脫逃",
+      "3": "抹去",
+      "4": "護送"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900153,
+    "question": "quench",
+    "answers": {
+      "1": "砍伐",
+      "2": "熄滅",
+      "3": "打開",
+      "4": "緊握"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900154,
+    "question": "ample",
+    "answers": {
+      "1": "豐富的",
+      "2": "順從的",
+      "3": "被動的",
+      "4": "相關的"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900155,
+    "question": "lush",
+    "answers": {
+      "1": "圓滑的",
+      "2": "感傷的",
+      "3": "愉悅的",
+      "4": "低調的"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900156,
+    "question": "accurate",
+    "answers": {
+      "1": "堆積的",
+      "2": "精確的",
+      "3": "水銀的",
+      "4": "機敏的"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900157,
+    "question": "peg",
+    "answers": {
+      "1": "掛衣鉤",
+      "2": "化妝鏡",
+      "3": "試衣間",
+      "4": "大禮服"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900158,
+    "question": "stale",
+    "answers": {
+      "1": "不可燃的",
+      "2": "有活力的",
+      "3": "熱騰騰的",
+      "4": "不新鮮的"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900159,
+    "question": "bandit",
+    "answers": {
+      "1": "同事",
+      "2": "土匪",
+      "3": "犯人",
+      "4": "部長"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900160,
+    "question": "tame",
+    "answers": {
+      "1": "女士的",
+      "2": "瘸的",
+      "3": "乏味的",
+      "4": "知名的"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900161,
+    "question": "hostility",
+    "answers": {
+      "1": "推論",
+      "2": "樂觀",
+      "3": "友好",
+      "4": "敵意"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900162,
+    "question": "obstacle",
+    "answers": {
+      "1": "戲服",
+      "2": "對話",
+      "3": "情境",
+      "4": "障礙"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900163,
+    "question": "successor",
+    "answers": {
+      "1": "引座員",
+      "2": "同盟國",
+      "3": "門外漢",
+      "4": "繼承人"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900164,
+    "question": "vulgar",
+    "answers": {
+      "1": "和藹的",
+      "2": "感動的",
+      "3": "認真的",
+      "4": "不雅的"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900165,
+    "question": "lawn",
+    "answers": {
+      "1": "草坪",
+      "2": "法庭",
+      "3": "梯子",
+      "4": "貸款"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900166,
+    "question": "spectrum",
+    "answers": {
+      "1": "指令",
+      "2": "頻率",
+      "3": "刻度",
+      "4": "範圍"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900167,
+    "question": "elastic",
+    "answers": {
+      "1": "有彈性的",
+      "2": "有效率的",
+      "3": "有趣的",
+      "4": "極端的"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900168,
+    "question": "slaughter",
+    "answers": {
+      "1": "告知",
+      "2": "混合",
+      "3": "制止",
+      "4": "屠殺"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900169,
+    "question": "kindle",
+    "answers": {
+      "1": "點燃",
+      "2": "阻擋",
+      "3": "減輕",
+      "4": "解決"
+    },
+    "right_answer": 1
+  },
+  {
+  "id": 10900170,
+  "question": "alienate",
+    "answers": {
+      "1": "以…取代",
+      "2": "使疏遠",
+      "3": "彌補",
+      "4": "診斷"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900171,
+    "question": "obstinate",
+    "answers": {
+      "1": "冷酷的",
+      "2": "理性的",
+      "3": "倔強的",
+      "4": "絕望的"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900172,
+    "question": "cavalry",
+    "answers": {
+      "1": "平民百姓",
+      "2": "直升機隊",
+      "3": "宣傳組織",
+      "4": "裝甲部隊"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900173,
+    "question": "thorough",
+    "answers": {
+      "1": "屬天的",
+      "2": "明顯的",
+      "3": "徹底的",
+      "4": "光榮的"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900174,
+    "question": "scoop",
+    "answers": {
+      "1": "專賣權",
+      "2": "專利權",
+      "3": "創投業者",
+      "4": "獨家新聞"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900175,
+    "question": "concede",
+    "answers": {
+      "1": "認輸",
+      "2": "伴奏",
+      "3": "提倡",
+      "4": "贊成"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900176,
+    "question": "plight",
+    "answers": {
+      "1": "優越感",
+      "2": "悲觀主義",
+      "3": "摩擦力",
+      "4": "困境"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900177,
+    "question": "throb",
+    "answers": {
+      "1": "顫動",
+      "2": "抱怨",
+      "3": "減少",
+      "4": "打碎"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900178,
+    "question": "inflation",
+    "answers": {
+      "1": "血液循環",
+      "2": "團隊合作",
+      "3": "資本主義",
+      "4": "通貨膨脹"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900179,
+    "question": "vice",
+    "answers": {
+      "1": "報導",
+      "2": "惡習",
+      "3": "混亂",
+      "4": "核心"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900180,
+    "question": "ordeal",
+    "answers": {
+      "1": "起源",
+      "2": "祝福",
+      "3": "磨難",
+      "4": "饗宴"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900181,
+    "question": "artifact",
+    "answers": {
+      "1": "藝術作品",
+      "2": "人工製品",
+      "3": "資訊情報",
+      "4": "事實真相"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900182,
+    "question": "linen",
+    "answers": {
+      "1": "亞麻",
+      "2": "線條",
+      "3": "排隊",
+      "4": "石灰"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900183,
+    "question": "embark",
+    "answers": {
+      "1": "擴大",
+      "2": "出發",
+      "3": "下降",
+      "4": "購買"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900184,
+    "question": "crib",
+    "answers": {
+      "1": "樹幹",
+      "2": "解藥",
+      "3": "螃蟹",
+      "4": "小屋"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900185,
+    "question": "lofty",
+    "answers": {
+      "1": "高尚的",
+      "2": "虛弱的",
+      "3": "低調的",
+      "4": "樂觀的"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900186,
+    "question": "corpse",
+    "answers": {
+      "1": "軍團",
+      "2": "屍體",
+      "3": "分析者",
+      "4": "戰俘"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900187,
+    "question": "overlook",
+    "answers": {
+      "1": "入侵",
+      "2": "憎恨",
+      "3": "詮釋",
+      "4": "忽略"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900188,
+    "question": "snap",
+    "answers": {
+      "1": "掌擊",
+      "2": "攫取",
+      "3": "厲聲說",
+      "4": "惡意攻擊"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900189,
+    "question": "gospel",
+    "answers": {
+      "1": "福音",
+      "2": "閒話",
+      "3": "呻吟",
+      "4": "低吼"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900190,
+    "question": "humidity",
+    "answers": {
+      "1": "人性",
+      "2": "幽默",
+      "3": "恐懼",
+      "4": "潮濕"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900191,
+    "question": "knuckle",
+    "answers": {
+      "1": "炸藥",
+      "2": "關節",
+      "3": "工藝",
+      "4": "競賽"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900192,
+    "question": "conceive",
+    "answers": {
+      "1": "引用",
+      "2": "反抗",
+      "3": "構想",
+      "4": "察覺"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900193,
+    "question": "ingenuity",
+    "answers": {
+      "1": "筋疲力竭",
+      "2": "真心誠意",
+      "3": "花言巧語",
+      "4": "心靈手巧"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900194,
+    "question": "sprain",
+    "answers": {
+      "1": "旋轉",
+      "2": "播撒",
+      "3": "扭傷",
+      "4": "攤開"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900195,
+    "question": "stumble",
+    "answers": {
+      "1": "尋求",
+      "2": "解渴",
+      "3": "調解",
+      "4": "絆倒"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900196,
+    "question": "kernel",
+    "answers": {
+      "1": "結尾",
+      "2": "概念",
+      "3": "核心",
+      "4": "堅果"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900197,
+    "question": "freight",
+    "answers": {
+      "1": "飛翔",
+      "2": "戰鬥",
+      "3": "拋棄",
+      "4": "運送"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900198,
+    "question": "cordial",
+    "answers": {
+      "1": "熱誠的",
+      "2": "冷淡的",
+      "3": "分開的",
+      "4": "負面的"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900199,
+    "question": "hymn",
+    "answers": {
+      "1": "呼嘯聲",
+      "2": "聖歌",
+      "3": "預兆",
+      "4": "炒作"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 109001100,
+    "question": "zoom",
+    "answers": {
+      "1": "快速移動",
+      "2": "調整焦距",
+      "3": "畫清界線",
+      "4": "緩慢前進"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1090021,
+    "question": "大街",
+    "answers": {
+      "1": "cradle",
+      "2": "border",
+      "3": "avenue",
+      "4": "ladder"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 1090022,
+    "question": "刮鬍刀",
+    "answers": {
+      "1": "willow",
+      "2": "razor",
+      "3": "crane",
+      "4": "needle"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 1090023,
+    "question": "虔誠的",
+    "answers": {
+      "1": "pious",
+      "2": "notorious",
+      "3": "exterior",
+      "4": "skeptical"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1090024,
+    "question": "令人擔憂的",
+    "answers": {
+      "1": "apt",
+      "2": "brisk",
+      "3": "grim",
+      "4": "lofty"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 1090025,
+    "question": "停止",
+    "answers": {
+      "1": "accuse",
+      "2": "cease",
+      "3": "disguise",
+      "4": "gaze"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 1090026,
+    "question": "徘徊",
+    "answers": {
+      "1": "erupt",
+      "2": "drape",
+      "3": "fume",
+      "4": "linger"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 1090027,
+    "question": "協定",
+    "answers": {
+      "1": "management",
+      "2": "settlement",
+      "3": "employment",
+      "4": "treatment"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 1090028,
+    "question": "分散",
+    "answers": {
+      "1": "divert",
+      "2": "merge",
+      "3": "hospitalize",
+      "4": "vibrate"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1090029,
+    "question": "鄙視",
+    "answers": {
+      "1": "dazzle",
+      "2": "despair",
+      "3": "despise",
+      "4": "devour"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900210,
+    "question": "行為",
+    "answers": {
+      "1": "deed",
+      "2": "condition",
+      "3": "decade",
+      "4": "chapter"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900211,
+    "question": "安靜",
+    "answers": {
+      "1": "alley",
+      "2": "drip",
+      "3": "hush",
+      "4": "fare"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900212,
+    "question": "古怪的",
+    "answers": {
+      "1": "eccentric",
+      "2": "affectionate",
+      "3": "naval",
+      "4": "vertical"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900213,
+    "question": "點燃",
+    "answers": {
+      "1": "scratch",
+      "2": "scold",
+      "3": "spare",
+      "4": "spark"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900214,
+    "question": "分期付款",
+    "answers": {
+      "1": "maintenance",
+      "2": "sensation",
+      "3": "installment",
+      "4": "temptation"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900215,
+    "question": "軟嫩的",
+    "answers": {
+      "1": "sensible",
+      "2": "shady",
+      "3": "tender",
+      "4": "tricky"
+    },
+    "right_answer": 3
+  },
+  {
+  "id": 10900216,
+  "question": "助動詞",
+  "answers": {
+    "1": "fidelity",
+    "2": "garment",
+    "3": "auxiliary",
+    "4": "consent"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900217,
+    "question": "開始",
+    "answers": {
+      "1": "abolish",
+      "2": "dispense",
+      "3": "initiate",
+      "4": "lessen"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900218,
+    "question": "物理學家",
+    "answers": {
+      "1": "professor",
+      "2": "physicist",
+      "3": "technician",
+      "4": "physician"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900219,
+    "question": "嘶啞的",
+    "answers": {
+      "1": "hoarse",
+      "2": "hostile",
+      "3": "immense",
+      "4": "extensive"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900220,
+    "question": "瓷器",
+    "answers": {
+      "1": "handkerchief",
+      "2": "ladybird",
+      "3": "porcelain",
+      "4": "hairdresser"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900221,
+    "question": "反對者",
+    "answers": {
+      "1": "marshal",
+      "2": "rascal",
+      "3": "correspondent",
+      "4": "opponent"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900222,
+    "question": "逃學者",
+    "answers": {
+      "1": "nominee",
+      "2": "stature",
+      "3": "truant",
+      "4": "villain"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900223,
+    "question": "物質",
+    "answers": {
+      "1": "occasion",
+      "2": "emergency",
+      "3": "furniture",
+      "4": "substance"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900224,
+    "question": "連結",
+    "answers": {
+      "1": "bracelet",
+      "2": "behavior",
+      "3": "bulletin",
+      "4": "bond"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900225,
+    "question": "衛生設備",
+    "answers": {
+      "1": "sanitation",
+      "2": "nutrition",
+      "3": "sanction",
+      "4": "obligation"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900226,
+    "question": "新手",
+    "answers": {
+      "1": "novice",
+      "2": "artery",
+      "3": "prophet",
+      "4": "marshal"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900227,
+    "question": "快門",
+    "answers": {
+      "1": "filter",
+      "2": "shutter",
+      "3": "harness",
+      "4": "intuition"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900228,
+    "question": "光明的",
+    "answers": {
+      "1": "sufficient",
+      "2": "industrial",
+      "3": "terrific",
+      "4": "brilliant"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900229,
+    "question": "牢房",
+    "answers": {
+      "1": "bulb",
+      "2": "barn",
+      "3": "chain",
+      "4": "cell"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900230,
+    "question": "承認",
+    "answers": {
+      "1": "commit",
+      "2": "confess",
+      "3": "consist",
+      "4": "conquer"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900231,
+    "question": "損害",
+    "answers": {
+      "1": "undermine",
+      "2": "shun",
+      "3": "uphold",
+      "4": "speculate"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900232,
+    "question": "尊敬",
+    "answers": {
+      "1": "agenda",
+      "2": "broth",
+      "3": "compliment",
+      "4": "esteem"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900233,
+    "question": "適度的",
+    "answers": {
+      "1": "gracious",
+      "2": "identical",
+      "3": "intimate",
+      "4": "moderate"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900234,
+    "question": "充滿活力的",
+    "answers": {
+      "1": "aggressive",
+      "2": "clumsy",
+      "3": "dynamic",
+      "4": "eventual"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900235,
+    "question": "同盟",
+    "answers": {
+      "1": "counterpart",
+      "2": "malaria",
+      "3": "alliance",
+      "4": "parliament"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900236,
+    "question": "對象",
+    "answers": {
+      "1": "object",
+      "2": "balcony",
+      "3": "orphan",
+      "4": "coward"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900237,
+    "question": "肉湯",
+    "answers": {
+      "1": "bulge",
+      "2": "broth",
+      "3": "climax",
+      "4": "cushion"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900238,
+    "question": "疲憊",
+    "answers": {
+      "1": "agony",
+      "2": "fatigue",
+      "3": "gasp",
+      "4": "impulse"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900239,
+    "question": "體內的",
+    "answers": {
+      "1": "commercial",
+      "2": "hollow",
+      "3": "internal",
+      "4": "countable"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900240,
+    "question": "刷洗",
+    "answers": {
+      "1": "stitch",
+      "2": "scrub",
+      "3": "stab",
+      "4": "spoil"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900241,
+    "question": "制定",
+    "answers": {
+      "1": "impose",
+      "2": "inquire",
+      "3": "induce",
+      "4": "institute"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900242,
+    "question": "威脅",
+    "answers": {
+      "1": "refute",
+      "2": "illuminate",
+      "3": "menace",
+      "4": "plague"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900243,
+    "question": "便宜貨",
+    "answers": {
+      "1": "bargain",
+      "2": "dialect",
+      "3": "gangster",
+      "4": "monument"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900244,
+    "question": "冰雹",
+    "answers": {
+      "1": "cactus",
+      "2": "flake",
+      "3": "hail",
+      "4": "jug"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900245,
+    "question": "觀眾席",
+    "answers": {
+      "1": "anthem",
+      "2": "auditorium",
+      "3": "sanctuary",
+      "4": "boulevard"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900246,
+    "question": "猛拉",
+    "answers": {
+      "1": "toss",
+      "2": "tow",
+      "3": "trace",
+      "4": "tug"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900247,
+    "question": "逃避",
+    "answers": {
+      "1": "dodge",
+      "2": "hesitate",
+      "3": "interrupt",
+      "4": "inform"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900248,
+    "question": "細咬",
+    "answers": {
+      "1": "tread",
+      "2": "retaliate",
+      "3": "nibble",
+      "4": "bleach"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900249,
+    "question": "猛擲",
+    "answers": {
+      "1": "lure",
+      "2": "fling",
+      "3": "smack",
+      "4": "exert"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900250,
+    "question": "場所",
+    "answers": {
+      "1": "conference",
+      "2": "facility",
+      "3": "hardware",
+      "4": "maximum"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900251,
+    "question": "瑕疵",
+    "answers": {
+      "1": "mileage",
+      "2": "defect",
+      "3": "vaccine",
+      "4": "aviation"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900252,
+    "question": "詳盡說明",
+    "answers": {
+      "1": "contend",
+      "2": "elaborate",
+      "3": "gallop",
+      "4": "herald"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900253,
+    "question": "捲軸",
+    "answers": {
+      "1": "hound",
+      "2": "latitude",
+      "3": "reel",
+      "4": "crook"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900254,
+    "question": "發出哀鳴",
+    "answers": {
+      "1": "whine",
+      "2": "rattle",
+      "3": "squat",
+      "4": "commence"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900255,
+    "question": "策略",
+    "answers": {
+      "1": "tactic",
+      "2": "sodium",
+      "3": "menace",
+      "4": "statistics"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900256,
+    "question": "緯度",
+    "answers": {
+      "1": "corridor",
+      "2": "glacier",
+      "3": "gravity",
+      "4": "latitude"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900257,
+    "question": "矩形",
+    "answers": {
+      "1": "vanity",
+      "2": "oblong",
+      "3": "parlor",
+      "4": "segment"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900258,
+    "question": "重踏",
+    "answers": {
+      "1": "require",
+      "2": "stamp",
+      "3": "lap",
+      "4": "pin"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900259,
+    "question": "分詞",
+    "answers": {
+      "1": "participle",
+      "2": "paragraph",
+      "3": "participation",
+      "4": "partnership"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900260,
+    "question": "描述",
+    "answers": {
+      "1": "journal",
+      "2": "chimney",
+      "3": "receipt",
+      "4": "account"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900261,
+    "question": "卑微的",
+    "answers": {
+      "1": "humble",
+      "2": "greedy",
+      "3": "instant",
+      "4": "negative"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900262,
+    "question": "紡織品",
+    "answers": {
+      "1": "lava",
+      "2": "textile",
+      "3": "mower",
+      "4": "texture"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900263,
+    "question": "誠摯的",
+    "answers": {
+      "1": "earnest",
+      "2": "elegant",
+      "3": "economic",
+      "4": "emotional"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900264,
+    "question": "神性的",
+    "answers": {
+      "1": "distinct",
+      "2": "divine",
+      "3": "essential",
+      "4": "financial"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900265,
+    "question": "情緒",
+    "answers": {
+      "1": "profit",
+      "2": "spade",
+      "3": "tribe",
+      "4": "temper"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900266,
+    "question": "育種",
+    "answers": {
+      "1": "breed",
+      "2": "broil",
+      "3": "bloom",
+      "4": "blend"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900267,
+    "question": "推斷",
+    "answers": {
+      "1": "generate",
+      "2": "foresee",
+      "3": "shiver",
+      "4": "infer"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900268,
+    "question": "委任",
+    "answers": {
+      "1": "appoint",
+      "2": "consult",
+      "3": "devote",
+      "4": "estimate"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900269,
+    "question": "匯編",
+    "answers": {
+      "1": "disperse",
+      "2": "compile",
+      "3": "intrude",
+      "4": "reside"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900270,
+    "question": "排列",
+    "answers": {
+      "1": "range",
+      "2": "strike",
+      "3": "trap",
+      "4": "struggle"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900271,
+    "question": "引進",
+    "answers": {
+      "1": "process",
+      "2": "shrink",
+      "3": "transport",
+      "4": "introduce"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900272,
+    "question": "隱士",
+    "answers": {
+      "1": "hermit",
+      "2": "janitor",
+      "3": "locust",
+      "4": "mistress"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900273,
+    "question": "變化",
+    "answers": {
+      "1": "ditch",
+      "2": "swing",
+      "3": "kneel",
+      "4": "regret"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900274,
+    "question": "令人敬畏的",
+    "answers": {
+      "1": "tentative",
+      "2": "eligible",
+      "3": "coherent",
+      "4": "formidable"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900275,
+    "question": "陪襯者",
+    "answers": {
+      "1": "foil",
+      "2": "layman",
+      "3": "whisk",
+      "4": "yacht"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900276,
+    "question": "大使館",
+    "answers": {
+      "1": "cabinet",
+      "2": "chorus",
+      "3": "embassy",
+      "4": "landmark"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900277,
+    "question": "引起",
+    "answers": {
+      "1": "accuse",
+      "2": "arouse",
+      "3": "blink",
+      "4": "bounce"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900278,
+    "question": "珠子",
+    "answers": {
+      "1": "bean",
+      "2": "beam",
+      "3": "bead",
+      "4": "bid"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900279,
+    "question": "授權",
+    "answers": {
+      "1": "recruit",
+      "2": "authorize",
+      "3": "presume",
+      "4": "mobilize"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900280,
+    "question": "異議份子",
+    "answers": {
+      "1": "spike",
+      "2": "dissident",
+      "3": "initiative",
+      "4": "famine"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900281,
+    "question": "天文學家",
+    "answers": {
+      "1": "astronaut",
+      "2": "astronomer",
+      "3": "architect",
+      "4": "apprentice"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900282,
+    "question": "體積",
+    "answers": {
+      "1": "column",
+      "2": "delivery",
+      "3": "volume",
+      "4": "semester"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900283,
+    "question": "合成的",
+    "answers": {
+      "1": "spacious",
+      "2": "solitary",
+      "3": "synthetic",
+      "4": "sophisticated"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900284,
+    "question": "遭遇",
+    "answers": {
+      "1": "engage",
+      "2": "fare",
+      "3": "slice",
+      "4": "sting"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900285,
+    "question": "保證金",
+    "answers": {
+      "1": "shovel",
+      "2": "security",
+      "3": "shampoo",
+      "4": "shepherd"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10900286,
+    "question": "狂亂的",
+    "answers": {
+      "1": "specific",
+      "2": "rusty",
+      "3": "frantic",
+      "4": "romantic"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900287,
+    "question": "持有人",
+    "answers": {
+      "1": "operator",
+      "2": "pillow",
+      "3": "cricket",
+      "4": "holder"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900288,
+    "question": "密實的",
+    "answers": {
+      "1": "compact",
+      "2": "executive",
+      "3": "lame",
+      "4": "muscular"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900289,
+    "question": "大量存在",
+    "answers": {
+      "1": "merge",
+      "2": "implicit",
+      "3": "abbreviate",
+      "4": "abound"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900290,
+    "question": "凝視",
+    "answers": {
+      "1": "scout",
+      "2": "fasten",
+      "3": "regard",
+      "4": "track"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900291,
+    "question": "檢查",
+    "answers": {
+      "1": "discount",
+      "2": "puzzle",
+      "3": "import",
+      "4": "inspect"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900292,
+    "question": "明亮的",
+    "answers": {
+      "1": "tropical",
+      "2": "jealous",
+      "3": "vivid",
+      "4": "humorous"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900293,
+    "question": "流氓",
+    "answers": {
+      "1": "janitor",
+      "2": "groan",
+      "3": "fatigue",
+      "4": "rascal"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900294,
+    "question": "侷促的",
+    "answers": {
+      "1": "stiff",
+      "2": "arithmetic",
+      "3": "hollow",
+      "4": "pale"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900295,
+    "question": "模仿",
+    "answers": {
+      "1": "distort",
+      "2": "nurture",
+      "3": "humiliate",
+      "4": "mimic"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10900296,
+    "question": "蓄意的",
+    "answers": {
+      "1": "accountable",
+      "2": "epidemic",
+      "3": "deliberate",
+      "4": "bizarre"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10900297,
+    "question": "驚叫",
+    "answers": {
+      "1": "exclaim",
+      "2": "gnaw",
+      "3": "graze",
+      "4": "hound"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900298,
+    "question": "集會",
+    "answers": {
+      "1": "assembly",
+      "2": "constitution",
+      "3": "harmonica",
+      "4": "monarch"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10900299,
+    "question": "飛奔",
+    "answers": {
+      "1": "boom",
+      "2": "dart",
+      "3": "fuse",
+      "4": "mingle"
+    },
+    "right_answer": 2
+  },
+  {
+  "id": 109002100,
+  "question": "猛跌",
+  "answers": {
+      "1": "tribute",
+      "2": "render",
+      "3": "slump",
+      "4": "perceive"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 1070011,
+    "question": "grind",
+    "answers": {
+      "1": "纏繞",
+      "2": "咀嚼",
+      "3": "剝落",
+      "4": "磨碎"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 1070012,
+    "question": "vacant",
+    "answers": {
+      "1": "空的",
+      "2": "流暢的",
+      "3": "生的",
+      "4": "偽裝的"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1070013,
+    "question": "novice",
+    "answers": {
+      "1": "新手",
+      "2": "小說",
+      "3": "鼻孔",
+      "4": "觀念"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1070014,
+    "question": "elaborate",
+    "answers": {
+      "1": "擁抱",
+      "2": "建立",
+      "3": "闡述",
+      "4": "爆發"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 1070015,
+    "question": "resume",
+    "answers": {
+      "1": "滅亡",
+      "2": "觀察",
+      "3": "繼續",
+      "4": "普遍"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 1070016,
+    "question": "comb",
+    "answers": {
+      "1": "大略瀏覽",
+      "2": "隨機取樣",
+      "3": "仔細搜查",
+      "4": "根本解決"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 1070017,
+    "question": "pious",
+    "answers": {
+      "1": "盜版的",
+      "2": "前衛的",
+      "3": "虔誠的",
+      "4": "獨白的"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 1070018,
+    "question": "revolve",
+    "answers": {
+      "1": "旋轉",
+      "2": "復原",
+      "3": "反抗",
+      "4": "收益"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1070019,
+    "question": "anthem",
+    "answers": {
+      "1": "禮堂",
+      "2": "拍賣",
+      "3": "國歌",
+      "4": "趣聞"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700110,
+    "question": "tow",
+    "answers": {
+      "1": "拖走",
+      "2": "雕刻",
+      "3": "丟擲",
+      "4": "思索"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700111,
+    "question": "accompany",
+    "answers": {
+      "1": "公司",
+      "2": "陪伴",
+      "3": "完成",
+      "4": "共犯"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700112,
+    "question": "outset",
+    "answers": {
+      "1": "出口",
+      "2": "開始",
+      "3": "外衣",
+      "4": "遠足"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700113,
+    "question": "convict",
+    "answers": {
+      "1": "囚犯",
+      "2": "轉換",
+      "3": "信仰",
+      "4": "運輸"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700114,
+    "question": "exploration",
+    "answers": {
+      "1": "到期",
+      "2": "實行",
+      "3": "探索",
+      "4": "演化"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700115,
+    "question": "monarch",
+    "answers": {
+      "1": "山丘",
+      "2": "大廈",
+      "3": "主流",
+      "4": "君王"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700116,
+    "question": "mutter",
+    "answers": {
+      "1": "羊肉",
+      "2": "咕噥",
+      "3": "上升",
+      "4": "芥末"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700117,
+    "question": "vanish",
+    "answers": {
+      "1": "滅絕",
+      "2": "遺忘",
+      "3": "廢除",
+      "4": "清掃"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700118,
+    "question": "indignant",
+    "answers": {
+      "1": "輕蔑的",
+      "2": "深掘的",
+      "3": "靛色的",
+      "4": "憤慨的"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700119,
+    "question": "obstinate",
+    "answers": {
+      "1": "頑固的",
+      "2": "熱情的",
+      "3": "起源",
+      "4": "敘述"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700120,
+    "question": "retort",
+    "answers": {
+      "1": "反駁",
+      "2": "刺入",
+      "3": "蹣跚",
+      "4": "收穫"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700121,
+    "question": "prosperity",
+    "answers": {
+      "1": "窮困",
+      "2": "稀疏",
+      "3": "適當",
+      "4": "繁榮"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700122,
+    "question": "freight",
+    "answers": {
+      "1": "貨運",
+      "2": "逃跑",
+      "3": "恐懼",
+      "4": "架構"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700123,
+    "question": "limb",
+    "answers": {
+      "1": "構造",
+      "2": "鏡片",
+      "3": "部落",
+      "4": "肢體"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700124,
+    "question": "prime",
+    "answers": {
+      "1": "原始的",
+      "2": "相關的",
+      "3": "基本的",
+      "4": "驕傲的"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700125,
+    "question": "steep",
+    "answers": {
+      "1": "逐漸的",
+      "2": "陡峭的",
+      "3": "開放的",
+      "4": "活躍的"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700126,
+    "question": "tame",
+    "answers": {
+      "1": "照顧",
+      "2": "馴服",
+      "3": "縮水",
+      "4": "命令"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700127,
+    "question": "amiable",
+    "answers": {
+      "1": "結實的",
+      "2": "最高的",
+      "3": "和藹的",
+      "4": "模糊的"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700128,
+    "question": "exquisite",
+    "answers": {
+      "1": "詳盡明確的",
+      "2": "精巧細緻的",
+      "3": "異國風情的",
+      "4": "獨家專賣的"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700129,
+    "question": "sack",
+    "answers": {
+      "1": "原因",
+      "2": "麻袋",
+      "3": "存款",
+      "4": "回復"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700130,
+    "question": "consolation",
+    "answers": {
+      "1": "安慰",
+      "2": "讓步",
+      "3": "觀念",
+      "4": "消耗"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700131,
+    "question": "deposit",
+    "answers": {
+      "1": "融化",
+      "2": "修補",
+      "3": "存放",
+      "4": "允許"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700132,
+    "question": "prospect",
+    "answers": {
+      "1": "預言",
+      "2": "購買",
+      "3": "投射",
+      "4": "前景"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700133,
+    "question": "knuckle",
+    "answers": {
+      "1": "一團的頭髮",
+      "2": "輕聲笑",
+      "3": "醃黃瓜",
+      "4": "指關節"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700134,
+    "question": "falter",
+    "answers": {
+      "1": "犯錯",
+      "2": "動搖",
+      "3": "折磨",
+      "4": "哀悼"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700135,
+    "question": "obligation",
+    "answers": {
+      "1": "壓迫",
+      "2": "創意",
+      "3": "義務",
+      "4": "爆發"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700136,
+    "question": "rectangle",
+    "answers": {
+      "1": "個性",
+      "2": "糾結",
+      "3": "迷宮",
+      "4": "矩形"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700137,
+    "question": "stern",
+    "answers": {
+      "1": "散發異味",
+      "2": "駕駛",
+      "3": "燉菜",
+      "4": "嚴厲的"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700138,
+    "question": "dynamic",
+    "answers": {
+      "1": "不動聲色的",
+      "2": "不斷發展的",
+      "3": "不計其數的",
+      "4": "不出所料的"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700139,
+    "question": "prone",
+    "answers": {
+      "1": "散文",
+      "2": "懇求",
+      "3": "拔毛",
+      "4": "易於"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700140,
+    "question": "bulb",
+    "answers": {
+      "1": "燈泡",
+      "2": "布料",
+      "3": "疑慮",
+      "4": "洪水"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700141,
+    "question": "jeer",
+    "answers": {
+      "1": "振作",
+      "2": "嘲弄",
+      "3": "投保",
+      "4": "理髮"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700142,
+    "question": "advocate",
+    "answers": {
+      "1": "否決",
+      "2": "壓抑",
+      "3": "提倡",
+      "4": "順從"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700143,
+    "question": "grin",
+    "answers": {
+      "1": "彎下腰撿",
+      "2": "咧著嘴笑",
+      "3": "抬起頭看",
+      "4": "伸出手拿"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700144,
+    "question": "discreet",
+    "answers": {
+      "1": "審慎的",
+      "2": "扭曲",
+      "3": "使分心",
+      "4": "不信任"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700145,
+    "question": "corridor",
+    "answers": {
+      "1": "香菜",
+      "2": "走廊",
+      "3": "嘉年華會",
+      "4": "通訊"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700146,
+    "question": "imperial",
+    "answers": {
+      "1": "公正的",
+      "2": "帝國的",
+      "3": "內部的",
+      "4": "不朽的"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700147,
+    "question": "hostile",
+    "answers": {
+      "1": "緊張的",
+      "2": "敵對的",
+      "3": "丟臉的",
+      "4": "困擾的"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700148,
+    "question": "taunt",
+    "answers": {
+      "1": "對付",
+      "2": "嘲諷",
+      "3": "糾結",
+      "4": "猛推"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700149,
+    "question": "tangerine",
+    "answers": {
+      "1": "粉紫色",
+      "2": "灰黑色",
+      "3": "橘紅色",
+      "4": "淡藍色"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700150,
+    "question": "humidity",
+    "answers": {
+      "1": "濕度",
+      "2": "謙虛",
+      "3": "敵意",
+      "4": "遺產"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700151,
+    "question": "confer",
+    "answers": {
+      "1": "編纂",
+      "2": "遵照",
+      "3": "確認",
+      "4": "商談"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700152,
+    "question": "reptile",
+    "answers": {
+      "1": "爬蟲類",
+      "2": "重複度",
+      "3": "退休潮",
+      "4": "接受者"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700153,
+    "question": "founder",
+    "answers": {
+      "1": "賣弄者",
+      "2": "建立者",
+      "3": "立法者",
+      "4": "發現者"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700154,
+    "question": "accelerate",
+    "answers": {
+      "1": "縮寫",
+      "2": "加速",
+      "3": "預期",
+      "4": "住宿"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700155,
+    "question": "intuition",
+    "answers": {
+      "1": "直覺",
+      "2": "學費",
+      "3": "機構",
+      "4": "侵入"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700156,
+    "question": "bleak",
+    "answers": {
+      "1": "邊緣",
+      "2": "荒涼的",
+      "3": "輕快的",
+      "4": "龐大的"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700157,
+    "question": "bombard",
+    "answers": {
+      "1": "束縛",
+      "2": "杯葛",
+      "3": "轟炸",
+      "4": "招呼"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700158,
+    "question": "compact",
+    "answers": {
+      "1": "獨立自主的",
+      "2": "堅固耐用的",
+      "3": "深謀遠慮的",
+      "4": "小巧玲瓏的"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700159,
+    "question": "feeble",
+    "answers": {
+      "1": "適量的",
+      "2": "慌亂的",
+      "3": "有益的",
+      "4": "虛弱的"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700160,
+    "question": "transaction",
+    "answers": {
+      "1": "轉變",
+      "2": "傳送",
+      "3": "過渡",
+      "4": "交易"
+    },
+    "right_answer": 4
+  },
+  {
+  "id": 10700161,
+  "question": "sword",
+    "answers": {
+      "1": "蓋子",
+      "2": "劍、刀",
+      "3": "王冠",
+      "4": "拳頭"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700162,
+    "question": "commerce",
+    "answers": {
+      "1": "商業",
+      "2": "開始",
+      "3": "轉換",
+      "4": "公司"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700163,
+    "question": "tenant",
+    "answers": {
+      "1": "暴君",
+      "2": "房客",
+      "3": "寶座",
+      "4": "叛徒"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700164,
+    "question": "fidelity",
+    "answers": {
+      "1": "熟悉",
+      "2": "肥沃度",
+      "3": "高等學院",
+      "4": "忠誠"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700165,
+    "question": "inferior",
+    "answers": {
+      "1": "較差的",
+      "2": "頻繁的",
+      "3": "私人的",
+      "4": "正常的"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700166,
+    "question": "contend",
+    "answers": {
+      "1": "滿意",
+      "2": "爭奪",
+      "3": "內容",
+      "4": "包含"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700168,
+    "question": "yawn",
+    "answers": {
+      "1": "草地",
+      "2": "湖泊",
+      "3": "思緒",
+      "4": "哈欠"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700169,
+    "question": "mischievous",
+    "answers": {
+      "1": "醜惡的",
+      "2": "頑皮的",
+      "3": "奇跡般的",
+      "4": "單調的"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700170,
+    "question": "locust",
+    "answers": {
+      "1": "蝗蟲",
+      "2": "發生地",
+      "3": "鑄造品",
+      "4": "成本"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700171,
+    "question": "mutton",
+    "answers": {
+      "1": "楓樹",
+      "2": "飼料",
+      "3": "羊肉",
+      "4": "牡蠣"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700172,
+    "question": "ambush",
+    "answers": {
+      "1": "猛推",
+      "2": "收攏",
+      "3": "震動",
+      "4": "伏擊"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700173,
+    "question": "rebel",
+    "answers": {
+      "1": "叛軍",
+      "2": "彩排",
+      "3": "名聲",
+      "4": "排斥"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700174,
+    "question": "resemble",
+    "answers": {
+      "1": "集合",
+      "2": "組裝",
+      "3": "看起來像",
+      "4": "感到憤恨"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700175,
+    "question": "gigantic",
+    "answers": {
+      "1": "瘋狂的",
+      "2": "明理的",
+      "3": "清晰的",
+      "4": "巨大的"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700176,
+    "question": "flick",
+    "answers": {
+      "1": "輕彈",
+      "2": "翻烤",
+      "3": "振翅",
+      "4": "剝落"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700177,
+    "question": "pickle",
+    "answers": {
+      "1": "挑惕",
+      "2": "醃菜",
+      "3": "選擇",
+      "4": "零錢"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700178,
+    "question": "elastic",
+    "answers": {
+      "1": "用電的",
+      "2": "彈性的",
+      "3": "持續的",
+      "4": "選舉的"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700179,
+    "question": "radical",
+    "answers": {
+      "1": "發出隆隆聲",
+      "2": "激進的",
+      "3": "沙沙作響",
+      "4": "懷疑的"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700180,
+    "question": "gorge",
+    "answers": {
+      "1": "慢條斯理",
+      "2": "匍匐前進",
+      "3": "狼吞虎嚥",
+      "4": "氣急敗壞"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700181,
+    "question": "violet",
+    "answers": {
+      "1": "違法者",
+      "2": "小提琴",
+      "3": "紫羅蘭",
+      "4": "死火山"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700182,
+    "question": "margin",
+    "answers": {
+      "1": "雄偉",
+      "2": "遊行",
+      "3": "食物",
+      "4": "差距"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700183,
+    "question": "batch",
+    "answers": {
+      "1": "棍棒",
+      "2": "小塊",
+      "3": "分派",
+      "4": "一組"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700184,
+    "question": "overlap",
+    "answers": {
+      "1": "偶然聽到",
+      "2": "翻倒",
+      "3": "征服",
+      "4": "重疊"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700185,
+    "question": "socket",
+    "answers": {
+      "1": "短襪",
+      "2": "插座",
+      "3": "口袋",
+      "4": "球拍"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700186,
+    "question": "utter",
+    "answers": {
+      "1": "潰瘍",
+      "2": "說出",
+      "3": "引導",
+      "4": "直立的"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700187,
+    "question": "reconcile",
+    "answers": {
+      "1": "使和解",
+      "2": "使反省",
+      "3": "使欣喜",
+      "4": "使倒反"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700188,
+    "question": "precede",
+    "answers": {
+      "1": "主持",
+      "2": "先於",
+      "3": "聲望",
+      "4": "偏見"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700189,
+    "question": "herd",
+    "answers": {
+      "1": "樹籬",
+      "2": "頭罩",
+      "3": "獸群",
+      "4": "獵犬"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700190,
+    "question": "squat",
+    "answers": {
+      "1": "蹲著",
+      "2": "壓壞",
+      "3": "贊助",
+      "4": "擴張"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700191,
+    "question": "paradox",
+    "answers": {
+      "1": "酥皮糕點",
+      "2": "矛盾真理",
+      "3": "大種植園",
+      "4": "預防措施"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700192,
+    "question": "lofty",
+    "answers": {
+      "1": "柔軟的",
+      "2": "大量的",
+      "3": "剩餘的",
+      "4": "崇高的"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700193,
+    "question": "lap",
+    "answers": {
+      "1": "一堆",
+      "2": "一圈",
+      "3": "一團",
+      "4": "一群"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700194,
+    "question": "mortal",
+    "answers": {
+      "1": "軍事的",
+      "2": "邊緣的",
+      "3": "海產的",
+      "4": "致命的"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700195,
+    "question": "autonomy",
+    "answers": {
+      "1": "動脈",
+      "2": "自治",
+      "3": "反義詞",
+      "4": "類比"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700196,
+    "question": "surpass",
+    "answers": {
+      "1": "剩餘",
+      "2": "懸念",
+      "3": "勝過",
+      "4": "配偶"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700197,
+    "question": "escort",
+    "answers": {
+      "1": "護花使者",
+      "2": "反派人物",
+      "3": "守財奴",
+      "4": "批發商"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700198,
+    "question": "initiate",
+    "answers": {
+      "1": "拍賣",
+      "2": "點燃",
+      "3": "內化",
+      "4": "開始"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700199,
+    "question": "patent",
+    "answers": {
+      "1": "瘟疫",
+      "2": "誓言",
+      "3": "專利",
+      "4": "潛能"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 107001100,
+    "question": "mediate",
+    "answers": {
+      "1": "調停",
+      "2": "移民",
+      "3": "哀傷",
+      "4": "展現"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1070021,
+    "question": "碎片",
+    "answers": {
+      "1": "coil",
+      "2": "bulk",
+      "3": "chord",
+      "4": "flake"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 1070022,
+    "question": "策劃",
+    "answers": {
+      "1": "kneel",
+      "2": "target",
+      "3": "shovel",
+      "4": "hatch"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 1070023,
+    "question": "頻繁的",
+    "answers": {
+      "1": "silent",
+      "2": "naughty",
+      "3": "minus",
+      "4": "regular"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 1070024,
+    "question": "精明的",
+    "answers": {
+      "1": "shed",
+      "2": "shrewd",
+      "3": "shriek",
+      "4": "shred"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 1070025,
+    "question": "膚淺的",
+    "answers": {
+      "1": "rough",
+      "2": "probable",
+      "3": "individual",
+      "4": "shallow"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 1070026,
+    "question": "真誠的",
+    "answers": {
+      "1": "innocent",
+      "2": "sincere",
+      "3": "current",
+      "4": "regular"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 1070027,
+    "question": "抽筋",
+    "answers": {
+      "1": "wrench",
+      "2": "strangle",
+      "3": "strain",
+      "4": "cramp"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 1070028,
+    "question": "威脅",
+    "answers": {
+      "1": "menace",
+      "2": "mansion",
+      "3": "marshal",
+      "4": "mermaid"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1070029,
+    "question": "情感",
+    "answers": {
+      "1": "spectacle",
+      "2": "spendor",
+      "3": "statistics",
+      "4": "sentiment"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700210,
+    "question": "學生",
+    "answers": {
+      "1": "nephew",
+      "2": "athlete",
+      "3": "pupil",
+      "4": "director"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700211,
+    "question": "證書",
+    "answers": {
+      "1": "consultant",
+      "2": "conjunction",
+      "3": "corporation",
+      "4": "certificate"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700212,
+    "question": "資源",
+    "answers": {
+      "1": "proposal",
+      "2": "material",
+      "3": "entrance",
+      "4": "resource"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700213,
+    "question": "傳單",
+    "answers": {
+      "1": "vessel",
+      "2": "circular",
+      "3": "bog",
+      "4": "fad"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700214,
+    "question": "合乎情理的",
+    "answers": {
+      "1": "defensible",
+      "2": "eventual",
+      "3": "habitual",
+      "4": "allergic"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700215,
+    "question": "水電工",
+    "answers": {
+      "1": "puppet",
+      "2": "theory",
+      "3": "plumber",
+      "4": "trunk"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700216,
+    "question": "推論",
+    "answers": {
+      "1": "inhabit",
+      "2": "inject",
+      "3": "infer",
+      "4": "integrate"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700217,
+    "question": "簡報",
+    "answers": {
+      "1": "badge",
+      "2": "remark",
+      "3": "remedy",
+      "4": "digest"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700218,
+    "question": "保養",
+    "answers": {
+      "1": "govern",
+      "2": "maintain",
+      "3": "confirm",
+      "4": "exchange"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700219,
+    "question": "花瓣",
+    "answers": {
+      "1": "petal",
+      "2": "pedal",
+      "3": "ballet",
+      "4": "blade"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700220,
+    "question": "適度的",
+    "answers": {
+      "1": "moderate",
+      "2": "definite",
+      "3": "apt",
+      "4": "awhile"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700221,
+    "question": "偽造",
+    "answers": {
+      "1": "fiddle",
+      "2": "discard",
+      "3": "inherit",
+      "4": "abide"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700222,
+    "question": "輔助的",
+    "answers": {
+      "1": "barren",
+      "2": "auxiliary",
+      "3": "atomic",
+      "4": "blush"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700223,
+    "question": "偷獵",
+    "answers": {
+      "1": "poach",
+      "2": "porch",
+      "3": "posture",
+      "4": "pitcher"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700224,
+    "question": "半徑",
+    "answers": {
+      "1": "diameter",
+      "2": "radius",
+      "3": "equation",
+      "4": "segment"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700225,
+    "question": "柔和的",
+    "answers": {
+      "1": "motto",
+      "2": "mellow",
+      "3": "mumble",
+      "4": "marvel"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700226,
+    "question": "凸起",
+    "answers": {
+      "1": "assault",
+      "2": "bulge",
+      "3": "convert",
+      "4": "commute"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700227,
+    "question": "節約的",
+    "answers": {
+      "1": "indispensable",
+      "2": "economical",
+      "3": "conventional",
+      "4": "fundamental"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700228,
+    "question": "徘徊潛行",
+    "answers": {
+      "1": "propel",
+      "2": "presume",
+      "3": "prowl",
+      "4": "preside"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700229,
+    "question": "臆斷",
+    "answers": {
+      "1": "blend",
+      "2": "heed",
+      "3": "gasp",
+      "4": "assume"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700230,
+    "question": "休戰",
+    "answers": {
+      "1": "truce",
+      "2": "truant",
+      "3": "utensil",
+      "4": "wrench"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700231,
+    "question": "顯示",
+    "answers": {
+      "1": "admission",
+      "2": "intonation",
+      "3": "isolation",
+      "4": "indication"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700232,
+    "question": "獨特的",
+    "answers": {
+      "1": "distinctive",
+      "2": "eternal",
+      "3": "federal",
+      "4": "descriptive"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700233,
+    "question": "荒謬的",
+    "answers": {
+      "1": "flexible",
+      "2": "genuine",
+      "3": "absurd",
+      "4": "furious"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700234,
+    "question": "肚臍",
+    "answers": {
+      "1": "naïve",
+      "2": "naval",
+      "3": "navel",
+      "4": "neutral"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700235,
+    "question": "察覺",
+    "answers": {
+      "1": "compare",
+      "2": "educate",
+      "3": "detect",
+      "4": "hesitate"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700236,
+    "question": "咆哮",
+    "answers": {
+      "1": "growl",
+      "2": "blink",
+      "3": "haul",
+      "4": "despise"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700237,
+    "question": "慣例",
+    "answers": {
+      "1": "costume",
+      "2": "consume",
+      "3": "constitution",
+      "4": "convention"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700238,
+    "question": "衝突",
+    "answers": {
+      "1": "fright",
+      "2": "conflict",
+      "3": "principle",
+      "4": "decade"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700239,
+    "question": "細菌",
+    "answers": {
+      "1": "bacteria",
+      "2": "tangerine",
+      "3": "mushroom",
+      "4": "coconut"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700240,
+    "question": "螺旋形",
+    "answers": {
+      "1": "sphere",
+      "2": "spiral",
+      "3": "spire",
+      "4": "sprawl"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700241,
+    "question": "起重機",
+    "answers": {
+      "1": "shrimp",
+      "2": "crane",
+      "3": "linen",
+      "4": "scout"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700242,
+    "question": "意見一致的",
+    "answers": {
+      "1": "ultimate",
+      "2": "unanimous",
+      "3": "intact",
+      "4": "inevitable"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700243,
+    "question": "召喚",
+    "answers": {
+      "1": "summon",
+      "2": "sermon",
+      "3": "session",
+      "4": "sanction"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700244,
+    "question": "物質",
+    "answers": {
+      "1": "performance",
+      "2": "ignorance",
+      "3": "balance",
+      "4": "substance"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700245,
+    "question": "氣壓計",
+    "answers": {
+      "1": "barometer",
+      "2": "thermometer",
+      "3": "windshield",
+      "4": "utensil"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700246,
+    "question": "木材",
+    "answers": {
+      "1": "nap",
+      "2": "ash",
+      "3": "log",
+      "4": "dam"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700247,
+    "question": "冗贅的",
+    "answers": {
+      "1": "selective",
+      "2": "rational",
+      "3": "skeptical",
+      "4": "redundant"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700248,
+    "question": "勤勞的",
+    "answers": {
+      "1": "creative",
+      "2": "diligent",
+      "3": "principal",
+      "4": "ordinary"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700249,
+    "question": "難辦的",
+    "answers": {
+      "1": "normal",
+      "2": "stale",
+      "3": "tricky",
+      "4": "tropical"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700250,
+    "question": "緯度",
+    "answers": {
+      "1": "gratitude",
+      "2": "altitude",
+      "3": "latitude",
+      "4": "longitude"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700251,
+    "question": "傾斜",
+    "answers": {
+      "1": "disguise",
+      "2": "glide",
+      "3": "infect",
+      "4": "lean"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700252,
+    "question": "家電",
+    "answers": {
+      "1": "auditorium",
+      "2": "destination",
+      "3": "appliance",
+      "4": "framework"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700253,
+    "question": "海峽",
+    "answers": {
+      "1": "highway",
+      "2": "channel",
+      "3": "sidewalk",
+      "4": "postage"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700254,
+    "question": "面貌",
+    "answers": {
+      "1": "original",
+      "2": "deposit",
+      "3": "feature",
+      "4": "excellence"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700255,
+    "question": "必然的",
+    "answers": {
+      "1": "considerate",
+      "2": "dreadful",
+      "3": "impartial",
+      "4": "bound"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700256,
+    "question": "過得去的",
+    "answers": {
+      "1": "sympathetic",
+      "2": "tolerable",
+      "3": "singular",
+      "4": "juvenile"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700257,
+    "question": "演繹",
+    "answers": {
+      "1": "interfere",
+      "2": "interpret",
+      "3": "resemble",
+      "4": "register"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700259,
+    "question": "窒息",
+    "answers": {
+      "1": "puzzle",
+      "2": "ignore",
+      "3": "choke",
+      "4": "swallow"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700260,
+    "question": "小冊子",
+    "answers": {
+      "1": "pamphlet",
+      "2": "peninsula",
+      "3": "pharmacy",
+      "4": "parliament"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700261,
+    "question": "倒塌",
+    "answers": {
+      "1": "plug",
+      "2": "detect",
+      "3": "reduce",
+      "4": "tumble"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700262,
+    "question": "騷擾",
+    "answers": {
+      "1": "treason",
+      "2": "theft",
+      "3": "hack",
+      "4": "harassment"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700263,
+    "question": "認輸",
+    "answers": {
+      "1": "concise",
+      "2": "concede",
+      "3": "concept",
+      "4": "condense"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700264,
+    "question": "寧靜的",
+    "answers": {
+      "1": "trivial",
+      "2": "transparent",
+      "3": "tranquil",
+      "4": "triumphant"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700265,
+    "question": "少量的",
+    "answers": {
+      "1": "frantic",
+      "2": "absurd",
+      "3": "slight",
+      "4": "delightful"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700266,
+    "question": "藥片",
+    "answers": {
+      "1": "pickle",
+      "2": "tablet",
+      "3": "guava",
+      "4": "apron"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700267,
+    "question": "有毒的",
+    "answers": {
+      "1": "toxic",
+      "2": "prior",
+      "3": "symbolic",
+      "4": "vertical"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700268,
+    "question": "台地",
+    "answers": {
+      "1": "terrace",
+      "2": "thriller",
+      "3": "tavern",
+      "4": "throne"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700269,
+    "question": "嚴肅的",
+    "answers": {
+      "1": "grim",
+      "2": "rural",
+      "3": "innumerable",
+      "4": "ashamed"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700270,
+    "question": "品德高尚的",
+    "answers": {
+      "1": "indifferent",
+      "2": "cowardly",
+      "3": "immense",
+      "4": "honorable"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700271,
+    "question": "排出",
+    "answers": {
+      "1": "guard",
+      "2": "locate",
+      "3": "drain",
+      "4": "fancy"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700272,
+    "question": "不新鮮的",
+    "answers": {
+      "1": "rusty",
+      "2": "stale",
+      "3": "dumb",
+      "4": "plain"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700273,
+    "question": "資產",
+    "answers": {
+      "1": "coupon",
+      "2": "modesty",
+      "3": "asset",
+      "4": "virtue"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700274,
+    "question": "量級",
+    "answers": {
+      "1": "magnitude",
+      "2": "aptitude",
+      "3": "proportion",
+      "4": "stature"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700275,
+    "question": "互相的",
+    "answers": {
+      "1": "loyal",
+      "2": "lunar",
+      "3": "mutual",
+      "4": "heroic"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700276,
+    "question": "可靠的",
+    "answers": {
+      "1": "sensible",
+      "2": "probable",
+      "3": "reliable",
+      "4": "desirable"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700277,
+    "question": "特種部隊",
+    "answers": {
+      "1": "corps",
+      "2": "corpse",
+      "3": "caress",
+      "4": "chaos"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700278,
+    "question": "消除",
+    "answers": {
+      "1": "regulate",
+      "2": "resolve",
+      "3": "haunt",
+      "4": "grip"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700279,
+    "question": "專家小組",
+    "answers": {
+      "1": "fort",
+      "2": "hostel",
+      "3": "orbit",
+      "4": "panel"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700280,
+    "question": "學期",
+    "answers": {
+      "1": "semester",
+      "2": "definition",
+      "3": "employer",
+      "4": "system"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700281,
+    "question": "分發",
+    "answers": {
+      "1": "confine",
+      "2": "reflect",
+      "3": "dispense",
+      "4": "triumph"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700282,
+    "question": "譴責",
+    "answers": {
+      "1": "deprive",
+      "2": "descend",
+      "3": "dispatch",
+      "4": "denounce"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700283,
+    "question": "同志",
+    "answers": {
+      "1": "surgeon",
+      "2": "accountant",
+      "3": "comrade",
+      "4": "instinct"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700284,
+    "question": "陰謀",
+    "answers": {
+      "1": "coincidence",
+      "2": "catastrophe",
+      "3": "conspiracy",
+      "4": "confrontation"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700285,
+    "question": "撕破",
+    "answers": {
+      "1": "rip",
+      "2": "rib",
+      "3": "rim",
+      "4": "rite"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700286,
+    "question": "教義",
+    "answers": {
+      "1": "doctrine",
+      "2": "dynamite",
+      "3": "torment",
+      "4": "terminate"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700287,
+    "question": "費力地看",
+    "answers": {
+      "1": "flick",
+      "2": "peer",
+      "3": "fume",
+      "4": "jeer"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700288,
+    "question": "頂峰",
+    "answers": {
+      "1": "summit",
+      "2": "summary",
+      "3": "swear",
+      "4": "swell"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700289,
+    "question": "暴風雨",
+    "answers": {
+      "1": "tornado",
+      "2": "tempest",
+      "3": "trauma",
+      "4": "turmoil"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700290,
+    "question": "土堆",
+    "answers": {
+      "1": "mode",
+      "2": "mound",
+      "3": "moan",
+      "4": "mourn"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700291,
+    "question": "逃學者",
+    "answers": {
+      "1": "sheriff",
+      "2": "layman",
+      "3": "monarch",
+      "4": "truant"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700292,
+    "question": "僻靜處",
+    "answers": {
+      "1": "merit",
+      "2": "retreat",
+      "3": "courtesy",
+      "4": "climax"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700293,
+    "question": "相當多的",
+    "answers": {
+      "1": "considerabe",
+      "2": "measurable",
+      "3": "reasonable",
+      "4": "acceptable"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700294,
+    "question": "延遲",
+    "answers": {
+      "1": "muddy",
+      "2": "confine",
+      "3": "lag",
+      "4": "shrug"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700295,
+    "question": "輕抱",
+    "answers": {
+      "1": "reserve",
+      "2": "cradle",
+      "3": "empty",
+      "4": "excuse"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10700296,
+    "question": "反駁",
+    "answers": {
+      "1": "clasp",
+      "2": "devour",
+      "3": "counter",
+      "4": "grant"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10700297,
+    "question": "塔尖",
+    "answers": {
+      "1": "spur",
+      "2": "sphere",
+      "3": "sprint",
+      "4": "spire"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10700298,
+    "question": "詐騙",
+    "answers": {
+      "1": "fraud",
+      "2": "fret",
+      "3": "hurdle",
+      "4": "grill"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10700299,
+    "question": "靜止的",
+    "answers": {
+      "1": "suburban",
+      "2": "successive",
+      "3": "stationery",
+      "4": "stationary"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 107002100,
+    "question": "幾何學",
+    "answers": {
+      "1": "orchestra",
+      "2": "sympathy",
+      "3": "geometry",
+      "4": "signature"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 1030011,
+    "question": "暗示",
+    "answers": {
+      "1": "imply",
+      "2": "apply",
+      "3": "supply",
+      "4": "reply"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1030012,
+    "question": "適應",
+    "answers": {
+      "1": "adapt",
+      "2": "adopt",
+      "3": "adept",
+      "4": "adore"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1030013,
+    "question": "失望的",
+    "answers": {
+      "1": "amazing",
+      "2": "interesting",
+      "3": "disappointing",
+      "4": "satisfying"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 1030014,
+    "question": "黏土",
+    "answers": {
+      "1": "clay",
+      "2": "pole",
+      "3": "event",
+      "4": "heaven"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1030015,
+    "question": "出席",
+    "answers": {
+      "1": "attend",
+      "2": "regret",
+      "3": "chop",
+      "4": "approve"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1030016,
+    "question": "十年",
+    "answers": {
+      "1": "corner",
+      "2": "decade",
+      "3": "hug",
+      "4": "cancer"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 1030017,
+    "question": "熱情",
+    "answers": {
+      "1": "patience",
+      "2": "passion",
+      "3": "angel",
+      "4": "angle"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 1030018,
+    "question": "員工",
+    "answers": {
+      "1": "stuff",
+      "2": "staff",
+      "3": "stinky",
+      "4": "sticker"
+    },
+    "right_answer": 2
+  },
+  {
+  "id": 1030019,
+  "question": "挑戰",
+    "answers": {
+      "1": "obstacles",
+      "2": "screw",
+      "3": "crew",
+      "4": "challenge"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300110,
+    "question": "樂觀的",
+    "answers": {
+      "1": "optimistic",
+      "2": "pessimistic",
+      "3": "gloomy",
+      "4": "grounded"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300111,
+    "question": "受害者",
+    "answers": {
+      "1": "audience",
+      "2": "athlete",
+      "3": "tycoon",
+      "4": "victim"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300112,
+    "question": "中斷",
+    "answers": {
+      "1": "injure",
+      "2": "improve",
+      "3": "interrupt",
+      "4": "involve"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10300113,
+    "question": "展示",
+    "answers": {
+      "1": "creature",
+      "2": "recipe",
+      "3": "receipt",
+      "4": "exhibition"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300114,
+    "question": "提供",
+    "answers": {
+      "1": "provide",
+      "2": "procrastinate",
+      "3": "progress",
+      "4": "protect"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300115,
+    "question": "包含",
+    "answers": {
+      "1": "contain",
+      "2": "pertain",
+      "3": "sustain",
+      "4": "detain"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300116,
+    "question": "達成",
+    "answers": {
+      "1": "seize",
+      "2": "forbid",
+      "3": "prevent",
+      "4": "achieve"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300117,
+    "question": "整潔的",
+    "answers": {
+      "1": "awful",
+      "2": "tiny",
+      "3": "tidy",
+      "4": "valuable"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10300118,
+    "question": "分別的",
+    "answers": {
+      "1": "respectable",
+      "2": "respectful",
+      "3": "respective",
+      "4": "respect"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10300119,
+    "question": "形狀",
+    "answers": {
+      "1": "shade",
+      "2": "shape",
+      "3": "shake",
+      "4": "shuffle"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10300120,
+    "question": "古代的",
+    "answers": {
+      "1": "current",
+      "2": "modern",
+      "3": "ancient",
+      "4": "medieval"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10300121,
+    "question": "想家的",
+    "answers": {
+      "1": "acrophobia",
+      "2": "hydrophobia",
+      "3": "insomnia",
+      "4": "homesick"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300122,
+    "question": "珍惜",
+    "answers": {
+      "1": "accumulate",
+      "2": "cumulate",
+      "3": "cherish",
+      "4": "emphasize"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10300123,
+    "question": "護照",
+    "answers": {
+      "1": "passport",
+      "2": "pilot",
+      "3": "snake",
+      "4": "snack"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300124,
+    "question": "指出",
+    "answers": {
+      "1": "indicate",
+      "2": "disagree",
+      "3": "disapprove",
+      "4": "damage"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300125,
+    "question": "報導",
+    "answers": {
+      "1": "interpret",
+      "2": "report",
+      "3": "suggest",
+      "4": "point"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10300126,
+    "question": "cooperate",
+    "answers": {
+      "1": "一起",
+      "2": "共同",
+      "3": "合夥",
+      "4": "合作"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300127,
+    "question": "alleviate",
+    "answers": {
+      "1": "出現",
+      "2": "減緩",
+      "3": "增加",
+      "4": "降低"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10300128,
+    "question": "tropical",
+    "answers": {
+      "1": "副熱帶的",
+      "2": "寒帶的",
+      "3": "溫帶的",
+      "4": "熱帶的"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300129,
+    "question": "generous",
+    "answers": {
+      "1": "激動的",
+      "2": "慷慨的",
+      "3": "吝嗇的",
+      "4": "無禮的"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10300130,
+    "question": "conflict",
+    "answers": {
+      "1": "地震",
+      "2": "山崩",
+      "3": "海嘯",
+      "4": "衝突"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300131,
+    "question": "bargain",
+    "answers": {
+      "1": "討論",
+      "2": "爭吵",
+      "3": "討價還價",
+      "4": "說服"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10300132,
+    "question": "confirm",
+    "answers": {
+      "1": "確認",
+      "2": "影響",
+      "3": "研究",
+      "4": "合作"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300133,
+    "question": "repair",
+    "answers": {
+      "1": "欣賞",
+      "2": "修理",
+      "3": "感激",
+      "4": "責罵"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10300134,
+    "question": "depend",
+    "answers": {
+      "1": "依賴",
+      "2": "防禦",
+      "3": "公告",
+      "4": "創新"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300135,
+    "question": "expectation",
+    "answers": {
+      "1": "期許",
+      "2": "遺忘",
+      "3": "影響",
+      "4": "準備"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300136,
+    "question": "retirement",
+    "answers": {
+      "1": "篡位",
+      "2": "發抖",
+      "3": "退休",
+      "4": "抓住"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10300137,
+    "question": "clarify",
+    "answers": {
+      "1": "澄清",
+      "2": "撞破",
+      "3": "毀壞",
+      "4": "清潔"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300138,
+    "question": "advise",
+    "answers": {
+      "1": "傳聞",
+      "2": "受傷",
+      "3": "建議",
+      "4": "缺席"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10300139,
+    "question": "treasure",
+    "answers": {
+      "1": "遺囑",
+      "2": "理念",
+      "3": "歡愉",
+      "4": "財寶"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300140,
+    "question": "impact",
+    "answers": {
+      "1": "影響",
+      "2": "分開",
+      "3": "啟程",
+      "4": "分開"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300141,
+    "question": "characteristic",
+    "answers": {
+      "1": "示範",
+      "2": "特色",
+      "3": "信念",
+      "4": "形狀"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10300142,
+    "question": "resolution",
+    "answers": {
+      "1": "解決",
+      "2": "來源",
+      "3": "決心",
+      "4": "期望"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300143,
+    "question": "transparent",
+    "answers": {
+      "1": "認真的",
+      "2": "易受騙的",
+      "3": "搖擺不定的",
+      "4": "透明的"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300144,
+    "question": "mature",
+    "answers": {
+      "1": "憂慮的",
+      "2": "困擾的",
+      "3": "成熟的",
+      "4": "累人的"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10300145,
+    "question": "permission",
+    "answers": {
+      "1": "假裝",
+      "2": "提醒",
+      "3": "準備",
+      "4": "允許"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300146,
+    "question": "moderate",
+    "answers": {
+      "1": "激烈的",
+      "2": "酷熱的",
+      "3": "溫和的",
+      "4": "放縱的"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10300147,
+    "question": "demonstrate",
+    "answers": {
+      "1": "示範",
+      "2": "貢獻",
+      "3": "爭論",
+      "4": "擊敗"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300148,
+    "question": "apparent",
+    "answers": {
+      "1": "焦慮的",
+      "2": "明顯的",
+      "3": "煩惱的",
+      "4": "惡劣的"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10300149,
+    "question": "promising",
+    "answers": {
+      "1": "有前途的",
+      "2": "困難的",
+      "3": "亮眼的",
+      "4": "飢餓的"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300150,
+    "question": "celebrity",
+    "answers": {
+      "1": "聲望",
+      "2": "曝光",
+      "3": "名人",
+      "4": "獲獎者"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 1030021,
+    "question": "不可避免的",
+    "answers": {
+      "1": "incorrect",
+      "2": "incorrigible",
+      "3": "inaccurate",
+      "4": "inevitable"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 1030022,
+    "question": "方言",
+    "answers": {
+      "1": "dialect",
+      "2": "dialogue",
+      "3": "diagram",
+      "4": "diabetes"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1030023,
+    "question": "喜愛",
+    "answers": {
+      "1": "enlighten",
+      "2": "enjoy",
+      "3": "enrich",
+      "4": "enlarge"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 1030024,
+    "question": "從事",
+    "answers": {
+      "1": "encounter",
+      "2": "embrace",
+      "3": "engage",
+      "4": "enhance"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 1030025,
+    "question": "暗示",
+    "answers": {
+      "1": "imply",
+      "2": "reply",
+      "3": "apply",
+      "4": "supply"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1030026,
+    "question": "受歡迎的",
+    "answers": {
+      "1": "sample",
+      "2": "simple",
+      "3": "popular",
+      "4": "capricious"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 1030027,
+    "question": "表達",
+    "answers": {
+      "1": "repress",
+      "2": "express",
+      "3": "oppress",
+      "4": "impress"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 1030028,
+    "question": "描寫",
+    "answers": {
+      "1": "describe",
+      "2": "subscribe",
+      "3": "inscribe",
+      "4": "prescribe"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1030029,
+    "question": "下降",
+    "answers": {
+      "1": "ascend",
+      "2": "descend",
+      "3": "escalate",
+      "4": "scan"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10300210,
+    "question": "事故的",
+    "answers": {
+      "1": "sophisticated",
+      "2": "surprised",
+      "3": "distinct",
+      "4": "straight"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300211,
+    "question": "破壞",
+    "answers": {
+      "1": "destroy",
+      "2": "instruct",
+      "3": "construct",
+      "4": "destruct"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300212,
+    "question": "內行的",
+    "answers": {
+      "1": "adept",
+      "2": "adoptable",
+      "3": "adaptable",
+      "4": "adorable"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300213,
+    "question": "獲得",
+    "answers": {
+      "1": "attain",
+      "2": "pertain",
+      "3": "sustain",
+      "4": "detain"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300214,
+    "question": "來源",
+    "answers": {
+      "1": "resource",
+      "2": "source",
+      "3": "sauce",
+      "4": "south"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10300215,
+    "question": "洶湧",
+    "answers": {
+      "1": "surge",
+      "2": "merge",
+      "3": "emerge",
+      "4": "purge"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300216,
+    "question": "抽象",
+    "answers": {
+      "1": "abstract",
+      "2": "contract",
+      "3": "distract",
+      "4": "extract"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300217,
+    "question": "避免",
+    "answers": {
+      "1": "revert",
+      "2": "divert",
+      "3": "convert",
+      "4": "avert"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300218,
+    "question": "投資",
+    "answers": {
+      "1": "invent",
+      "2": "invest",
+      "3": "approve",
+      "4": "improve"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10300219,
+    "question": "多才多藝的",
+    "answers": {
+      "1": "gullible",
+      "2": "versatile",
+      "3": "fruitful",
+      "4": "careful"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10300220,
+    "question": "傳達",
+    "answers": {
+      "1": "convey",
+      "2": "convict",
+      "3": "convince",
+      "4": "conscribe"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300221,
+    "question": "擁護",
+    "answers": {
+      "1": "advocate",
+      "2": "provoke",
+      "3": "support",
+      "4": "suggest"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300222,
+    "question": "消費者",
+    "answers": {
+      "1": "composer",
+      "2": "container",
+      "3": "consumer",
+      "4": "commander"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10300223,
+    "question": "創新",
+    "answers": {
+      "1": "innovation",
+      "2": "comparison",
+      "3": "compassion",
+      "4": "patience"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300224,
+    "question": "特許",
+    "answers": {
+      "1": "privilege",
+      "2": "approach",
+      "3": "conscience",
+      "4": "concert"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300225,
+    "question": "區分",
+    "answers": {
+      "1": "extinct",
+      "2": "protect",
+      "3": "tolerate",
+      "4": "evaluate"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300226,
+    "question": "determination",
+    "answers": {
+      "1": "命令",
+      "2": "決心",
+      "3": "沮喪",
+      "4": "討論"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10300227,
+    "question": "dictation",
+    "answers": {
+      "1": "消化",
+      "2": "加強",
+      "3": "努力",
+      "4": "聽寫"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300228,
+    "question": "possession",
+    "answers": {
+      "1": "擁有",
+      "2": "壓迫",
+      "3": "感受",
+      "4": "允許"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300229,
+    "question": "variety",
+    "answers": {
+      "1": "多愁善感",
+      "2": "多樣化",
+      "3": "貴重",
+      "4": "多才多藝"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10300230,
+    "question": "assistance",
+    "answers": {
+      "1": "艦長",
+      "2": "秘書",
+      "3": "醫生",
+      "4": "助手"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300231,
+    "question": "proposal",
+    "answers": {
+      "1": "抵達",
+      "2": "出發",
+      "3": "分析",
+      "4": "提議"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300232,
+    "question": "ignore",
+    "answers": {
+      "1": "忽視",
+      "2": "指導",
+      "3": "指責",
+      "4": "維持"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300233,
+    "question": "conference",
+    "answers": {
+      "1": "動亂",
+      "2": "會議",
+      "3": "遊行",
+      "4": "信任"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10300234,
+    "question": "exploration",
+    "answers": {
+      "1": "解釋",
+      "2": "期待",
+      "3": "表現",
+      "4": "探測"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300235,
+    "question": "astonishment",
+    "answers": {
+      "1": "喘氣",
+      "2": "嘆息",
+      "3": "驚訝",
+      "4": "分配"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10300236,
+    "question": "announcement",
+    "answers": {
+      "1": "約會",
+      "2": "爭論",
+      "3": "宣告",
+      "4": "評定"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10300237,
+    "question": "barbarian",
+    "answers": {
+      "1": "野蠻人",
+      "2": "水手",
+      "3": "繼承人",
+      "4": "外科醫生"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300238,
+    "question": "authority",
+    "answers": {
+      "1": "權利",
+      "2": "習慣",
+      "3": "功能",
+      "4": "數量"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300239,
+    "question": "logical",
+    "answers": {
+      "1": "正式的",
+      "2": "合理的",
+      "3": "自由的",
+      "4": "大方的"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10300240,
+    "question": "industrious",
+    "answers": {
+      "1": "工業的",
+      "2": "勤勉的",
+      "3": "好吃的",
+      "4": "吝嗇的"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10300241,
+    "question": "artificial",
+    "answers": {
+      "1": "令人驚奇的",
+      "2": "美麗的",
+      "3": "人造的",
+      "4": "可怕的"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10300242,
+    "question": "sorrowful",
+    "answers": {
+      "1": "愉悅的",
+      "2": "無聊的",
+      "3": "有趣的",
+      "4": "悲傷的"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300243,
+    "question": "respectful",
+    "answers": {
+      "1": "分別的",
+      "2": "尊敬的",
+      "3": "羞恥的",
+      "4": "後悔的"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 10300244,
+    "question": "mournful",
+    "answers": {
+      "1": "快樂的",
+      "2": "小氣的",
+      "3": "哀痛的",
+      "4": "滑稽的"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 10300245,
+    "question": "plentiful",
+    "answers": {
+      "1": "豐富的",
+      "2": "有權力的",
+      "3": "成功的",
+      "4": "誠實的"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 10300246,
+    "question": "offensive",
+    "answers": {
+      "1": "明確的",
+      "2": "預防的",
+      "3": "創始的",
+      "4": "無禮的"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300247,
+    "question": "reckless",
+    "answers": {
+      "1": "無數的",
+      "2": "無價的",
+      "3": "有用的",
+      "4": "不注意的"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300248,
+    "question": "religious",
+    "answers": {
+      "1": "有毒的",
+      "2": "可笑的",
+      "3": "嚴格的",
+      "4": "虔誠的"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300249,
+    "question": "sticky",
+    "answers": {
+      "1": "鬼鬼祟祟的",
+      "2": "白雪的",
+      "3": "草率的",
+      "4": "黏黏的"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 10300250,
+    "question": "paralyze",
+    "answers": {
+      "1": "使癱瘓",
+      "2": "使特殊化",
+      "3": "使都市化",
+      "4": "使視覺化"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1110011,
+    "question": "When Jeffery doesn’t feel like cooking, he often orders pizza online and has it ______ to his house.",
+    "answers": {
+      "1": "advanced",
+      "2": "delivered",
+      "3": "offered",
+      "4": "stretched"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 1110012,
+    "question": "Jane is the best ______ I have ever had. I cannot imagine running my office without her help.",
+    "answers": {
+      "1": "assistant",
+      "2": "influence",
+      "3": "contribution",
+      "4": "politician"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1110013,
+    "question": "The temple celebrated Mazu Festival by hosting ten days of lion dances, Taiwanese operas, and traditional hand ______ shows.",
+    "answers": {
+      "1": "chat",
+      "2": "quiz",
+      "3": "puppet",
+      "4": "variety"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 1110014,
+    "question": "The new vaccine was banned by the Food and Drug Administration due to its fatal side effects.",
+    "answers": {
+      "1": "potentially",
+      "2": "delicately",
+      "3": "ambiguously",
+      "4": "optionally"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1110015,
+    "question": "______ the photos with dates and keywords help you sort them easily in your file.",
+    "answers": {
+      "1": "Tagging",
+      "2": "Flocking",
+      "3": "Rolling",
+      "4": "Snapping"
+    },
+    "right_answer": 1
+  },
+  {
+    "id": 1110016,
+    "question": "An ______ person is usually pleasant and easy to get along with, but don’t expect that he or she will always say “yes” to everything.",
+    "answers": {
+      "1": "enormous",
+      "2": "intimate",
+      "3": "agreeable",
+      "4": "ultimate"
+    },
+    "right_answer": 3
+  },
+  {
+    "id": 1110017,
+    "question": "Hidden deep in a small alley among various tiny shops, the entrance of the Michelin star restaurant is barely ______ to passersby.",
+    "answers": {
+      "1": "identical",
+      "2": "visible",
+      "3": "available",
+      "4": "remarkable"
+    },
+    "right_answer": 2
+  },
+  {
+    "id": 1110018,
+    "question": "The original budget for my round-island trip was NT$5,000, but the ______ cost is likely to be 50 percent higher.",
+    "answers": {
+      "1": "moderate",
+      "2": "absolute",
+      "3": "promising",
+      "4": "eventual"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 1110019,
+    "question": "After watching a TV program on natural history, Adam decided to go on a ______ for dinosaur fossils in South Dakota.",
+    "answers": {
+      "1": "trial",
+      "2": "route",
+      "3": "strike",
+      "4": "quest"
+    },
+    "right_answer": 4
+  },
+  {
+    "id": 11100110,
+    "question": "With pink cherry blossoms blooming everywhere, the valley ______ like a young bride under the bright spring sunshine.",
+    "answers": {
+      "1": "bounces",
+      "2": "blushes",
+      "3": "polishes",
+      "4": "transfers"
+    },
+    "right_answer": 2
   }
 ]

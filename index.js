@@ -2,14 +2,20 @@
 
 const line = require('@line/bot-sdk');
 const express = require('express');
-const echo = { type: 'text', text: '請從選單選擇指令' };
+const fs = require('fs');
 const config = {
   channelAccessToken: '',
   channelSecret: '',
 };
+
 const client = new line.Client(config);
 const app = express();
 const questions = require('./question-sample.json');
+let echo = { type: 'text', text: '請從選單選擇指令' };
+
+app.get('/', (req, res) => {
+  res.send('Hello World!');
+});
 
 app.post('/callback', line.middleware(config), (req, res) => {
   Promise
@@ -48,10 +54,13 @@ function handleEvent(event) {
 function handleMessageEvent(event) {
   switch (event.message.text) {
     case '開始測驗':
-      let json = createQuestion(questions);
-      return client.replyMessage(event.replyToken, [json]);
+      let question_json = createQuestion(questions);
+      return client.replyMessage(event.replyToken, [question_json]);
       break;
-   default:
+    case '分數':
+      return handleUserPoints(event);
+      break;
+    default:
       return client.replyMessage(event.replyToken, echo);
   }
 }
@@ -61,7 +70,10 @@ function handlePostbackEvent(event) {
   switch (postback_result.type) {
     case 'answer':
       let answer_result = handleAnswer(event.postback.data)
-      if (answer_result) return client.replyMessage(event.replyToken, moreQuestion(postback_result.qid));
+      if (answer_result) {
+        updateUserPoints(event);
+        return client.replyMessage(event.replyToken, moreQuestion(postback_result.qid));
+      }
       else {
         echo = { type: "text", text: "答錯了" };
         return client.replyMessage(event.replyToken, echo);
@@ -70,6 +82,10 @@ function handlePostbackEvent(event) {
     case 'more_question':
       let json = createQuestion(questions, postback_result.qid);
       return client.replyMessage(event.replyToken, [json]);
+      break;
+    case 'more_test':
+      let question_json = createQuestion(questions);
+      return client.replyMessage(event.replyToken, [question_json]);
       break;
     default:
       return client.replyMessage(event.replyToken, echo);
@@ -170,6 +186,136 @@ function handleAnswer(data) {
   return result.content == q[0].right_answer ? true : false;
 }
 
+function handleUserPoints(event) {
+  let user = event.source.userId;
+  let path = `./users/${user}.json`;
+  let user_json = `[{"user": "${user}", "point": 0}]`;
+
+  if (fs.existsSync(path)) {
+    fs.readFile(path, function (error, data) {
+      if (error) throw error;
+      else {
+        let current_json = JSON.parse(data)
+        return client.replyMessage(event.replyToken, createPointMessage(current_json[0].point));
+      }
+    });
+  }
+  else {
+    fs.writeFile(path, user_json, function (error, data) {
+      if (error) {
+        console.error(error);
+      }
+    });
+
+    echo = { type: "text", text: "零分啦！" };
+    return client.replyMessage(event.replyToken, echo);
+  }
+}
+
+function createPointMessage(point, qid) {
+  return {
+    "type": "flex",
+    "altText": "你的分數",
+    "contents": {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn2.ettoday.net/images/5588/5588832.jpg",
+            "flex": 1,
+            "size": "full",
+            "aspectRatio": "2:1",
+            "aspectMode": "cover"
+          }
+        ],
+        "paddingAll": "0px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "md",
+        "contents": [
+          {
+            "type": "text",
+            "text": `你目前的得分為：${point}分\n\n`
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "margin": "md",
+            "contents": [
+              {
+                "type": "icon",
+                "size": "sm",
+                "url": "https://www.iconsdb.com/icons/download/soylent-red/star-64.png"
+              },
+              {
+                "type": "icon",
+                "size": "sm",
+                "url": "https://www.iconsdb.com/icons/download/gray/star-64.png"
+              },
+              {
+                "type": "icon",
+                "size": "sm",
+                "url": "https://www.iconsdb.com/icons/download/gray/star-64.png"
+              },
+              {
+                "type": "icon",
+                "size": "sm",
+                "url": "https://www.iconsdb.com/icons/download/gray/star-64.png"
+              },
+              {
+                "type": "icon",
+                "size": "sm",
+                "url": "https://www.iconsdb.com/icons/download/gray/star-64.png"
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "繼續測驗",
+              "displayText": "繼續測驗",
+              "data": `type=more_test&content=繼續測驗`
+            },
+            "style": "primary"
+          }
+        ]
+      }
+    }
+  };
+}
+
+function updateUserPoints(event) {
+  let user = event.source.userId;
+  let path = `./users/${user}.json`;
+  let user_json = '';
+
+  if (fs.existsSync(path)) {
+    fs.readFile(path, function (error, data) {
+      if (error) throw error;
+      else {
+        let old_json = JSON.parse(data)
+        let point = old_json[0].point + 1;
+        user_json = `[{"user": "${user}", "point": ${point}}]`
+        fs.writeFile(path, user_json, function (error, data) {
+          if (error) throw error;
+        });
+      }
+    });
+  }
+  else {
+    user_json = `[{"user": "${user}", "point": 1}]`
+    fs.writeFile(path, user_json, function (error, data) {
+      if (error) throw error;
+    });
+  }
+}
+
 function removeByIndex(array, index) {
   return array.filter(function (el, i) {
     return index !== i;
@@ -179,7 +325,7 @@ function removeByIndex(array, index) {
 
 
 // listen on port
-const port = process.env.PORT || 1234;
+const port = process.env.PORT || 3000;
 app.listen(port, () => {
   console.log(`listening on ${port}`);
 });
