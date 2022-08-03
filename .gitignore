@@ -1,4 +1,4 @@
-/node_modules
 .DS_Store
-production.js
 /users/*
+/node_modules
+production.js
