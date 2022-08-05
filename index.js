@@ -213,6 +213,31 @@ function handleUserPoints(event) {
 }
 
 function createPointMessage(point, qid) {
+  let gold_stars = 1;
+
+  if (point >= 250) gold_stars = 5;
+  else if (point >= 100) gold_stars = 4;
+  else if (point >= 50) gold_stars = 3;
+  else if (point >= 10) gold_stars = 2;
+  else gold_stars = 1;
+
+  let stars_contents = [];
+  for (let i = 0; i < gold_stars; i++) {
+    stars_contents.push({
+      "type": "icon",
+      "size": "sm",
+      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+    });
+  }
+
+  for (let j = 0; stars_contents.length < 5; j++) {
+    stars_contents.push({
+      "type": "icon",
+      "size": "sm",
+      "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+    });
+  }
+
   return {
     "type": "flex",
     "altText": "你的分數",
@@ -246,33 +271,7 @@ function createPointMessage(point, qid) {
             "type": "box",
             "layout": "baseline",
             "margin": "md",
-            "contents": [
-              {
-                "type": "icon",
-                "size": "sm",
-                "url": "https://www.iconsdb.com/icons/download/soylent-red/star-64.png"
-              },
-              {
-                "type": "icon",
-                "size": "sm",
-                "url": "https://www.iconsdb.com/icons/download/gray/star-64.png"
-              },
-              {
-                "type": "icon",
-                "size": "sm",
-                "url": "https://www.iconsdb.com/icons/download/gray/star-64.png"
-              },
-              {
-                "type": "icon",
-                "size": "sm",
-                "url": "https://www.iconsdb.com/icons/download/gray/star-64.png"
-              },
-              {
-                "type": "icon",
-                "size": "sm",
-                "url": "https://www.iconsdb.com/icons/download/gray/star-64.png"
-              }
-            ]
+            "contents": stars_contents
           },
           {
             "type": "button",
@@ -321,7 +320,6 @@ function removeByIndex(array, index) {
     return index !== i;
   });
 }
-
 
 
 // listen on port

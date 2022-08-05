@@ -1,20 +1,16 @@
 # Line Bot
 
-An example LINE bot
+High school english question test bot. An example Line bot.
 
 
-### test
+### local dev
 ```
+npm install
 npm start
 ngrok http 3000
 ```
 
-### url
-```
-https://line-bot-nodejs-zenkarsha.herokuapp.com/callback
-```
-
-### commit
+### production (heroku)
 ```
 git add .
 git commit -am "update"

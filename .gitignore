@@ -1,4 +1,6 @@
 .DS_Store
-/users/*
-/node_modules
+node_modules
+users/*
+!users/.gitkeep
 production.js
+package-lock.json
