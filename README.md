@@ -1,4 +1,4 @@
-# Line Bot
+# 高中考古題 Line bot example
 
 High school english question test bot. An example Line bot.
 
